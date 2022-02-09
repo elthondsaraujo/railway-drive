@@ -1,0 +1,26 @@
+{
+  "name": "x",
+  "description": "x",
+  "keywords": [
+    "x"
+  ],
+  "success_url": "/",
+  "env": {
+    "LIBDRIVE_CONFIG": {
+      "description": "Create this through the config generator",
+      "value": "",
+      "required": true
+    },
+    "WEB_CONCURRENCY": {
+      "description": "Don't change this, leave the value as 1",
+      "value": "1",
+      "required": true
+    }
+  },
+  "image": "heroku/python",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
