@@ -1,14 +1,26 @@
+
 0 - Fork This Repo
+
 1 - Click in  RailWay button
+
 2 - Sign in with GitHub to Deploy
+
 3 - Sign in to GitHub - to continue to Railway App
+
 4 - Authorize  Railway App
+
 5 - verify your account to deploy
+
 6 - Again Click in  RailWay button
+
 7 - Configure which accounts and orgs railway has access to
+
 8 - Install & Authorize Railway App
+
 8.1 - If you need - (Again Click in  RailWay button)
+
 9 - Give a name - add Add values LIBDRIVE_CLOUD  and LIBDRIVE_CONFIG 
+
 10 - And Deploy
 
 Sorry my poor english
