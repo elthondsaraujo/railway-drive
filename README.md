@@ -41,6 +41,6 @@ You can click the Preview link to take a look at your changes.
 
 Regards from Brazil
 
-Removed all LibDRiv* references  to try avoid ban acc in heroku. Works? i Dont Now !!!
+Removed all LibDRiv* references  to try avoid ban acc in heroku. Works? i Dont No !!!
 
 Credits Elias - eliasbenb and Dester Alken
