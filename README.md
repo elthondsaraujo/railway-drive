@@ -1,5 +1,5 @@
 
-0 - Fork This Repo
+0 - Fork This Repo and upload your config.json
 
 1 - Click in  RailWay button
 
