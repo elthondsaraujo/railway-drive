@@ -1,6 +1,6 @@
 [
     {
-        "buildTime": "2023-08-20 21:42:27.710065",
+        "buildTime": "2023-08-20 22:47:22.197338",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -99,7 +99,7 @@
                 "releaseDate": "2023-08-02",
                 "title": "Opera\u00e7\u00e3o: Arma Secreta",
                 "type": "file",
-                "voteAverage": 6.504
+                "voteAverage": 6.473
             },
             {
                 "adult": false,
@@ -129,7 +129,7 @@
                 "adult": false,
                 "api": "tmdb",
                 "apiId": 577922,
-                "backdropPath": "https://image.tmdb.org/t/p/original/1g7n02DNWOyrYl8WzXViloEHdSC.jpg",
+                "backdropPath": "https://image.tmdb.org/t/p/original/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
                 "genres": [
                     "Action",
                     "Thriller",
@@ -148,7 +148,7 @@
                 "releaseDate": "2020-08-22",
                 "title": "Tenet",
                 "type": "file",
-                "voteAverage": 7.196
+                "voteAverage": 7.2
             },
             {
                 "adult": false,
@@ -241,7 +241,7 @@
                 "releaseDate": "2023-05-18",
                 "title": "A Pequena Sereia",
                 "type": "file",
-                "voteAverage": 6.542
+                "voteAverage": 6.546
             },
             {
                 "adult": false,
@@ -2416,7 +2416,7 @@
                 "releaseDate": "2023-03-08",
                 "title": "P\u00e2nico VI",
                 "type": "file",
-                "voteAverage": 7.201
+                "voteAverage": 7.199
             },
             {
                 "adult": false,
@@ -2849,7 +2849,7 @@
                 "adult": false,
                 "api": "tmdb",
                 "apiId": 577922,
-                "backdropPath": "https://image.tmdb.org/t/p/original/1g7n02DNWOyrYl8WzXViloEHdSC.jpg",
+                "backdropPath": "https://image.tmdb.org/t/p/original/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
                 "genres": [
                     "Action",
                     "Thriller",
@@ -2868,7 +2868,7 @@
                 "releaseDate": "2020-08-22",
                 "title": "Tenet",
                 "type": "file",
-                "voteAverage": 7.196
+                "voteAverage": 7.2
             },
             {
                 "adult": false,
@@ -3486,7 +3486,7 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-20 21:42:52.923649",
+        "buildTime": "2023-08-20 22:47:47.342977",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -4283,7 +4283,7 @@
                 "releaseDate": "2022-02-20",
                 "title": "Origem",
                 "type": "directory",
-                "voteAverage": 8.279
+                "voteAverage": 8.277
             },
             {
                 "api": "tmdb",
@@ -6202,7 +6202,7 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-20 21:43:12.979868",
+        "buildTime": "2023-08-20 22:48:18.133061",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
