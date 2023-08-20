@@ -1,6 +1,6 @@
 [
     {
-        "buildTime": "2023-08-20 21:13:17.070417",
+        "buildTime": "2023-08-20 21:42:27.710065",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -484,7 +484,7 @@
                 "releaseDate": "2023-08-16",
                 "title": "Besouro Azul",
                 "type": "file",
-                "voteAverage": 7.129
+                "voteAverage": 7.085
             },
             {
                 "adult": false,
@@ -2043,7 +2043,7 @@
                 "releaseDate": "2023-04-19",
                 "title": "O Pacto",
                 "type": "file",
-                "voteAverage": 7.826
+                "voteAverage": 7.825
             },
             {
                 "adult": false,
@@ -2346,7 +2346,7 @@
                 "releaseDate": "2023-06-24",
                 "title": "Para\u00edso",
                 "type": "file",
-                "voteAverage": 6.772
+                "voteAverage": 6.764
             },
             {
                 "adult": false,
@@ -3486,7 +3486,7 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-20 21:13:29.226340",
+        "buildTime": "2023-08-20 21:42:52.923649",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -6202,14 +6202,14 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-20 21:13:40.312757",
+        "buildTime": "2023-08-20 21:43:12.979868",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
             "id": "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH",
             "language": "pt-BR",
             "name": "ANIMES",
-            "type": "Movies"
+            "type": "TV Shows"
         },
         "children": [],
         "driveId": "0AP_yuG0fiZwRUk9PVA",
