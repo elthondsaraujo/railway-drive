@@ -53,11 +53,11 @@
     "prefer_mp4": "true",
     "transcoded": "true",
     "service_accounts": [],
-    "signup": true,
+    "signup": false,
     "ui_config": {
         "custom_button": {
-            "text": "NobreFlix",
-            "url": "#"
+            "text": "Siga",
+            "url": "http://tiny.cc/libdrive"
         },
         "title": "NobreFlix",
         "icon": "https://th.bing.com/th/id/R.df7c249866b2de3b50eee84d6eb5f6be?rik=c3Ti4SyYba8h3g&pid=ImgRaw&r=0",
