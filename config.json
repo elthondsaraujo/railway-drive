@@ -9,16 +9,16 @@
         }
     ],
     "adult": "false",
-    "arcio": "dev",
+    "arcio": "",
     "auth": "true",
-    "build_interval": 360,
+    "build_interval": 180,
     "build_type": "hybrid",
     "category_list": [
         {
             "adult": false,
             "anilist": false,
             "id": "1NzazeAyeuI69wu6UNlhouEEDHIUYouts",
-            "language": "pt",
+            "language": "pt-BR",
             "name": "FILMES",
             "type": "Movies"
         },
@@ -26,7 +26,7 @@
             "adult": false,
             "anilist": false,
             "id": "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe",
-            "language": "pt",
+            "language": "pt-BR",
             "name": "SERIES",
             "type": "TV Shows"
         },
@@ -34,7 +34,7 @@
             "adult": false,
             "anilist": false,
             "id": "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH",
-            "language": "pt",
+            "language": "pt-BR",
             "name": "ANIMES",
             "type": "Movies"
         }
@@ -45,16 +45,23 @@
     "fetch_assets": "true",
     "refresh_token": "1//0h18xnLDO8bi2CgYIARAAGBESNwF-L9Irct6a98JR_npZspbTFLEtSdZjonBWQwqMONGpmRtJKEeWJ7KGnT6d75SzBlqwYe-HvBk",
     "remove_duplicates": "true",
-    "remove_no_poster": "false",
+    "remove_no_poster": true,
     "secret_key": "NOBREFLIX",
     "tmdb_api_key": "0fffaf58a1c48ee4c1431a16aacbadae",
     "token_expiry": "",
-    "prefer_mkv": "false",
+    "prefer_mkv": true,
     "prefer_mp4": "true",
     "transcoded": "true",
     "service_accounts": [],
-    "signup": "false",
+    "signup": true,
     "ui_config": {
-        "custom_button": {}
+        "custom_button": {
+            "text": "NobreFlix",
+            "url": "#"
+        },
+        "title": "NobreFlix",
+        "icon": "https://th.bing.com/th/id/R.df7c249866b2de3b50eee84d6eb5f6be?rik=c3Ti4SyYba8h3g&pid=ImgRaw&r=0",
+        "icon_on_nav": true,
+        "hide_news": true
     }
 }
