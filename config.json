@@ -1,0 +1,60 @@
+{
+    "access_token": "ya29.a0AfB_byCZIfD4tjX0ap91txLsBqie_hueThVUr6wifVDrWC5HJkGh2G3UMo5Ztk4JNYmzi50D0RKNQzO8AtGI8akypz9RsPV32b6JV2QVHt2mX2a9SUH7H7I0l683oK9Hr4NAq7XOrEe3Q1oRgejhNrQMjIe_Kys53LKNpgaCgYKATkSARMSFQHsvYls3ga-x1GCrf2M2yNh134F5A0173",
+    "account_list": [
+        {
+            "username": "henrique2410",
+            "password": "Idalina2410@",
+            "pic": "",
+            "auth": "0jler2t7iklhq7m9i9y84rmw6b3g0u6cwpvex47sylerauvmxz"
+        }
+    ],
+    "adult": "false",
+    "arcio": "dev",
+    "auth": "true",
+    "build_interval": 360,
+    "build_type": "hybrid",
+    "category_list": [
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1c9Twilj4qWZw7cDWFbqFy8MU-S0BCPif",
+            "language": "pt",
+            "name": "FILMES",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1SCwosl1qzJVVdS1KOG239MF3FUipd6fp",
+            "language": "pt",
+            "name": "SERIES",
+            "type": "TV Shows"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1abPG30dYMX81Eni26mGEtDFCQncyigG_",
+            "language": "pt",
+            "name": "ANIMES",
+            "type": "Movies"
+        }
+    ],
+    "client_id": "774103035544-i2ru30rpjrad345qptgr3am75ir9stpg.apps.googleusercontent.com",
+    "client_secret": "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",
+    "cloudflare": "",
+    "fetch_assets": "true",
+    "refresh_token": "1//0hqbHzrnkq5LrCgYIARAAGBESNwF-L9IrWVKkZFUtcJVl_hg830DyNMZ1bI09J4f3XvRGN66WTBuAnFdcBH2eQMdOlWqpkhNOHNo",
+    "remove_duplicates": "true",
+    "remove_no_poster": "false",
+    "secret_key": "NOBREFLIX",
+    "tmdb_api_key": "0fffaf58a1c48ee4c1431a16aacbadae",
+    "token_expiry": "",
+    "prefer_mkv": "false",
+    "prefer_mp4": "true",
+    "transcoded": "true",
+    "service_accounts": [],
+    "signup": "false",
+    "ui_config": {
+        "custom_button": {}
+    }
+}
