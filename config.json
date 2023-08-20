@@ -10,7 +10,7 @@
     ],
     "adult": "false",
     "auth": "false",
-    "signup": false,
+    "signup": "false",
     "build_interval": 180,
     "build_type": "hybrid",
     "category_list": [
