@@ -2,8 +2,8 @@
     "access_token": "ya29.a0AfB_byBjZeGb-_sjm2obFefO9i7p3lzkB01p3av3FZXsJju7UWeKBl9iRF8IPzVac9P229YrxpON5oMlp5Z9IYiyPN24LbBykQ4Q4ikJK-gMqxjKphoGKl27Drx3bMLt34c2NmG6Yo31aam1_D7Du-msa04BNfirr11qDgaCgYKAeESARMSFQHsvYlsx2sMaVyWfQACdtQlUsM2Hg0173",
     "account_list": [
         {
-            "username": "henrique2410",
-            "password": "HENRIQUE241093@",
+            "username": "demo",
+            "password": "demo",
             "pic": "",
             "auth": "0jler2t7iklhq7m9i9y84rmw6b3g0u6cwpvex47sylerauvmxz"
         }
@@ -17,7 +17,7 @@
         {
             "adult": false,
             "anilist": false,
-            "id": "1NzazeAyeuI69wu6UNlhouEEDHIUYouts",
+            "id": "DRIVEID",
             "language": "pt-BR",
             "name": "FILMES",
             "type": "Movies"
@@ -25,7 +25,7 @@
         {
             "adult": false,
             "anilist": false,
-            "id": "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe",
+            "id": "DRIVEID",
             "language": "pt-BR",
             "name": "SERIES",
             "type": "TV Shows"
@@ -33,21 +33,21 @@
         {
             "adult": false,
             "anilist": false,
-            "id": "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH",
+            "id": "DRIVEID",
             "language": "pt-BR",
             "name": "ANIMES",
             "type": "Movies"
         }
     ],
-    "client_id": "229235645044-mb5hp4l146vm39iajmcf35epcb6throi.apps.googleusercontent.com",
-    "client_secret": "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",
+    "client_id": "CLIENTID",
+    "client_secret": "CLIENT SECRET",
     "cloudflare": "",
     "fetch_assets": "true",
-    "refresh_token": "1//0h18xnLDO8bi2CgYIARAAGBESNwF-L9Irct6a98JR_npZspbTFLEtSdZjonBWQwqMONGpmRtJKEeWJ7KGnT6d75SzBlqwYe-HvBk",
+    "refresh_token": "REFRESHTOKEN",
     "remove_duplicates": "true",
     "remove_no_poster": true,
-    "secret_key": "NOBREFLIX",
-    "tmdb_api_key": "0fffaf58a1c48ee4c1431a16aacbadae",
+    "secret_key": "administrator",
+    "tmdb_api_key": "YOUTMD API",
     "token_expiry": "",
     "prefer_mkv": true,
     "prefer_mp4": "true",
@@ -58,7 +58,6 @@
     "url": "https://github.com/ss-iptv/render-drive"
     "text": "Telegram",
     "url": "https://t.me/seugrupo"
-        },	
         },	
     "arcio": "",
     "service_accounts": [],
