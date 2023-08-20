@@ -10,7 +10,7 @@
     ],
     "adult": "false",
     "arcio": "",
-    "auth": "true",
+    "auth": "false",
     "build_interval": 180,
     "build_type": "hybrid",
     "category_list": [
