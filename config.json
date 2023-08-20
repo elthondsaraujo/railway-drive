@@ -13,12 +13,7 @@
     "signup": false,
     "build_interval": 180,
     "build_type": "hybrid",
-    "ui_config": {
-    "custom_button": {
-    "text": "Telegram",
-    "url": "https://t.me/seugrupo"
-        },	
-		"category_list": [
+    "category_list": [
         {
             "adult": false,
             "anilist": false,
@@ -61,8 +56,9 @@
     "custom_button": {
     "text": "Siga o Projeto",
     "url": "https://github.com/ss-iptv/render-drive"
-	    "text": "Telegram",
+    "text": "Telegram",
     "url": "https://t.me/seugrupo"
+        },	
         },	
     "arcio": "",
     "service_accounts": [],
