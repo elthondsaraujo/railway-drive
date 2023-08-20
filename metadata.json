@@ -1,6 +1,6 @@
 [
     {
-        "buildTime": "2023-08-20 20:41:26.039127",
+        "buildTime": "2023-08-20 21:13:17.070417",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -612,7 +612,7 @@
                 "releaseDate": "2023-05-31",
                 "title": "Boogeyman: Seu Medo \u00e9 Real",
                 "type": "file",
-                "voteAverage": 6.2
+                "voteAverage": 6.254
             },
             {
                 "adult": false,
@@ -921,7 +921,7 @@
                 "releaseDate": "2022-08-12",
                 "title": "Dupla Jornada",
                 "type": "file",
-                "voteAverage": 6.852
+                "voteAverage": 6.854
             },
             {
                 "adult": false,
@@ -1157,7 +1157,7 @@
                 "releaseDate": "2023-05-03",
                 "title": "Guardi\u00f5es da Gal\u00e1xia: Vol. 3",
                 "type": "file",
-                "voteAverage": 8.048
+                "voteAverage": 8.047
             },
             {
                 "adult": false,
@@ -2461,7 +2461,7 @@
                 "releaseDate": "2023-06-15",
                 "title": "Que Horas Eu Te Pego?",
                 "type": "file",
-                "voteAverage": 7.089
+                "voteAverage": 7.093
             },
             {
                 "adult": false,
@@ -3059,7 +3059,7 @@
                 "releaseDate": "2022-09-30",
                 "title": "A Flauta M\u00e1gica",
                 "type": "file",
-                "voteAverage": 5.595
+                "voteAverage": 5.6
             },
             {
                 "adult": false,
@@ -3339,7 +3339,7 @@
                 "releaseDate": "2023-05-17",
                 "title": "Velozes & Furiosos 10",
                 "type": "file",
-                "voteAverage": 7.313
+                "voteAverage": 7.312
             },
             {
                 "adult": false,
@@ -3486,7 +3486,7 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-20 20:41:38.158399",
+        "buildTime": "2023-08-20 21:13:29.226340",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -3678,7 +3678,7 @@
                 "releaseDate": "2021-12-09",
                 "title": "And Just Like That... Um Novo Cap\u00edtulo de Sex and the City",
                 "type": "directory",
-                "voteAverage": 7.507
+                "voteAverage": 7.5
             },
             {
                 "api": "tmdb",
@@ -3849,6 +3849,28 @@
                 "genres": [
                     "Sci-Fi & Fantasy"
                 ],
+                "id": "10wq-snaMhm52sCRDAAB6S6yIx9keuRFf",
+                "language": "en",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Carnival Row",
+                "overview": "Com um serial killer solto no Carnival Row, Rycroft Philostrate, um investigador endurecido pela guerra, \u00e9 a \u00fanica pessoa disposta a parar com os assassinatos e manter a fr\u00e1gil paz.",
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 55.619,
+                "posterPath": "https://image.tmdb.org/t/p/w342/jyhxT10e2z9IDsKoIQDKhyxSQJt.jpg",
+                "releaseDate": "2019-08-29",
+                "title": "Carnival Row",
+                "type": "directory",
+                "voteAverage": 7.828
+            },
+            {
+                "api": "tmdb",
+                "apiId": 90027,
+                "backdropPath": "https://image.tmdb.org/t/p/original/tQZtXSYDzQUaASZYMfakoNo9DC3.jpg",
+                "genres": [
+                    "Sci-Fi & Fantasy"
+                ],
                 "id": "1mqdGvsErje9ps070l1NYpNs-Tf-MHmF6",
                 "language": "en",
                 "mimeType": "application/vnd.google-apps.folder",
@@ -3887,6 +3909,28 @@
                 "title": "Ca\u00e7adores de Dem\u00f4nios",
                 "type": "directory",
                 "voteAverage": 8.5
+            },
+            {
+                "api": "tmdb",
+                "apiId": 48585,
+                "backdropPath": "https://image.tmdb.org/t/p/original/jTIsEv24JqRyypKApTi9LDgSSLY.jpg",
+                "genres": [
+                    "Drama"
+                ],
+                "id": "1RrGDd2oMRMCfFVH14VHLUfeyci8swJDY",
+                "language": "en",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Celebrity",
+                "overview": "Self-proclaimed faith healer T.J. Luther, movie star Mack Crawford and journalist Kleber Cantrell share a fateful reunion in a deserted Texas cabin that was the scene of a night of violence over two decades.",
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 4.668,
+                "posterPath": "https://image.tmdb.org/t/p/w342/naSNNiqgKDuOnKcUHcCE8suHmn6.jpg",
+                "releaseDate": "1984-02-12",
+                "title": "Celebrity",
+                "type": "directory",
+                "voteAverage": 6.0
             },
             {
                 "api": "tmdb",
@@ -4100,6 +4144,28 @@
             },
             {
                 "api": "tmdb",
+                "apiId": 125359,
+                "backdropPath": "https://image.tmdb.org/t/p/original/gXdTX8TojqqBr2DhwdNS0NjdZer.jpg",
+                "genres": [
+                    "Western"
+                ],
+                "id": "1a3oWf6gxBELPp9BbxUZNgT3FXloHtsFj",
+                "language": "en",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Django",
+                "overview": "Acompanha Django, um pistoleiro no Velho Oeste que est\u00e1 procurando por sua filha que ele acredita ter escapado do assassinato de sua fam\u00edlia h\u00e1 oito anos.",
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 69.334,
+                "posterPath": "https://image.tmdb.org/t/p/w342/eQ4GRmP0EEkxjwlPbZlVn7HLoZp.jpg",
+                "releaseDate": "2023-02-13",
+                "title": "Django",
+                "type": "directory",
+                "voteAverage": 5.7
+            },
+            {
+                "api": "tmdb",
                 "apiId": 154114,
                 "backdropPath": "https://image.tmdb.org/t/p/original/uybUp9LNqsl54FYtFJSCab7TOha.jpg",
                 "genres": [
@@ -4159,6 +4225,31 @@
                 "language": "es",
                 "mimeType": "application/vnd.google-apps.folder",
                 "name": "Entre La\u00e7os",
+                "overview": "Allegra sonha em fazer parte da companhia de teatro musical Eleven O'clock. Sua av\u00f3, Cacau, tem um relacionamento complicado com sua filha Caterina, a m\u00e3e de Allegra. A vida de Allegra muda completamente quando ela encontra uma misteriosa pulseira que a envia para 1994, ano em que Caterina tinha sua idade e dava seus primeiros passos na Eleven O'clock. Ser\u00e1 que Allegra consegue mudar o passado?",
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 26.826,
+                "posterPath": "https://image.tmdb.org/t/p/w342/9PWWD5lB3KC4qGyhPc8ROehQp1E.jpg",
+                "releaseDate": "2021-11-12",
+                "title": "Disney Entre La\u00e7os",
+                "type": "directory",
+                "voteAverage": 7.535
+            },
+            {
+                "api": "tmdb",
+                "apiId": 115304,
+                "backdropPath": "https://image.tmdb.org/t/p/original/jXgWvFol8stimn1vbsnZSPr2LjW.jpg",
+                "genres": [
+                    "Sci-Fi & Fantasy",
+                    "Comedy",
+                    "Family",
+                    "Drama"
+                ],
+                "id": "1b57bkk00IIZJh8LRISSiDZao1J4gv8az",
+                "language": "es",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Entre La\u00e7os ",
                 "overview": "Allegra sonha em fazer parte da companhia de teatro musical Eleven O'clock. Sua av\u00f3, Cacau, tem um relacionamento complicado com sua filha Caterina, a m\u00e3e de Allegra. A vida de Allegra muda completamente quando ela encontra uma misteriosa pulseira que a envia para 1994, ano em que Caterina tinha sua idade e dava seus primeiros passos na Eleven O'clock. Ser\u00e1 que Allegra consegue mudar o passado?",
                 "parents": [
                     "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
@@ -4455,23 +4546,25 @@
             },
             {
                 "api": "tmdb",
-                "apiId": null,
-                "backdropPath": null,
-                "genres": [],
+                "apiId": 80825,
+                "backdropPath": "https://image.tmdb.org/t/p/original/sVTQtpvdTm0ba7yknetuCgwnlWw.jpg",
+                "genres": [
+                    "Drama"
+                ],
                 "id": "1XaY2orOgb7HayczAIGnOiUJ7zW059xV6",
-                "language": null,
+                "language": "pt",
                 "mimeType": "application/vnd.google-apps.folder",
-                "name": "Jesus \u2013 Novela Completa",
-                "overview": null,
+                "name": "Jesus",
+                "overview": "Acompanhe a trajet\u00f3ria de Jesus de antes do nascimento \u00e0 ressurrei\u00e7\u00e3o, passando pelos milagres e o calv\u00e1rio da via cr\u00facis. Saiba como era a vida de algumas pessoas que foram curadas por Ele e quem eram os ap\u00f3stolos.",
                 "parents": [
                     "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
                 ],
-                "popularity": 0.0,
-                "posterPath": null,
-                "releaseDate": "1900-01-01",
-                "title": "Jesus \u2013 Novela Completa",
+                "popularity": 34.988,
+                "posterPath": "https://image.tmdb.org/t/p/w342/AtKHUhi5PazffCycf4ux583kfPT.jpg",
+                "releaseDate": "2018-07-24",
+                "title": "Jesus",
                 "type": "directory",
-                "voteAverage": 0.0
+                "voteAverage": 7.874
             },
             {
                 "api": "tmdb",
@@ -4519,6 +4612,30 @@
                 "title": "Loki",
                 "type": "directory",
                 "voteAverage": 8.157
+            },
+            {
+                "api": "tmdb",
+                "apiId": 95839,
+                "backdropPath": "https://image.tmdb.org/t/p/original/wl0DQUT90o3e9gXHEeB5iyK05jb.jpg",
+                "genres": [
+                    "Mystery",
+                    "Drama",
+                    "Sci-Fi & Fantasy"
+                ],
+                "id": "1dcXItx_2Wo544-DjURIvIg1FV2QTH9g6",
+                "language": "en",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "LOVE - A Hist\u00f3ria de Lisey",
+                "overview": "Baseada no livro de Stephen King, esta s\u00e9rie aterrorizante conta a hist\u00f3ria da vi\u00fava Lisey Landon e os eventos perturbadores que reacendem suas mem\u00f3rias do seu casamento com o escritor Scott Landon e as trevas que o atormentavam.",
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 29.572,
+                "posterPath": "https://image.tmdb.org/t/p/w342/3wh5Dwggf0EQOBgxPUvXcCdMtpZ.jpg",
+                "releaseDate": "2021-06-04",
+                "title": "LOVE: A Hist\u00f3ria de Lisey",
+                "type": "directory",
+                "voteAverage": 6.0
             },
             {
                 "api": "tmdb",
@@ -4632,6 +4749,29 @@
                 "title": "Minhas Aventuras com o Superman",
                 "type": "directory",
                 "voteAverage": 9.131
+            },
+            {
+                "api": "tmdb",
+                "apiId": 5576,
+                "backdropPath": "https://image.tmdb.org/t/p/original/r0WSziA7f8pHElF0Z31byXYsoyk.jpg",
+                "genres": [
+                    "Soap",
+                    "Drama"
+                ],
+                "id": "1g8jdngMoBPwFM4nVflIoZOy1ouT9GYXZ",
+                "language": "pt",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "MULHERES DE AREIA",
+                "overview": "As g\u00eameas Ruth e Raquel t\u00eam perfis distintos. Raquel se casa com o namorado da irm\u00e3 por interesse at\u00e9 que, ap\u00f3s um acidente, \u00e9 dada como morta, causando uma reviravolta na trama.",
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 22.563,
+                "posterPath": "https://image.tmdb.org/t/p/w342/a9AE92RyGfdXhWtvld8VKvfWfwH.jpg",
+                "releaseDate": "1993-02-01",
+                "title": "Mulheres de Areia",
+                "type": "directory",
+                "voteAverage": 7.2
             },
             {
                 "api": "tmdb",
@@ -4837,6 +4977,52 @@
             },
             {
                 "api": "tmdb",
+                "apiId": 79948,
+                "backdropPath": "https://image.tmdb.org/t/p/original/yhhVjgPlCI18nGX5pJqFPTbcB9G.jpg",
+                "genres": [
+                    "Animation",
+                    "Kids",
+                    "Drama"
+                ],
+                "id": "1vmUfn9uOy_ZdGHw8CJRLLzwupAgxRmsJ",
+                "language": "en",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "O Vazio (The Hollow)",
+                "overview": "Ap\u00f3s despertarem em um mundo estranho, repleto de portais m\u00e1gicos, enigmas e monstros cru\u00e9is, tr\u00eas adolescentes unem for\u00e7as para tentar voltar para casa.",
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 11.741,
+                "posterPath": "https://image.tmdb.org/t/p/w342/9sDgeNu67umBkX209Yh78d4tyv9.jpg",
+                "releaseDate": "2018-06-08",
+                "title": "O Vazio",
+                "type": "directory",
+                "voteAverage": 6.88
+            },
+            {
+                "api": "tmdb",
+                "apiId": 194766,
+                "backdropPath": "https://image.tmdb.org/t/p/original/lAV3JxRj3OJpf1YDmChhdmIdadU.jpg",
+                "genres": [
+                    "Drama"
+                ],
+                "id": "1y-FJLdYP10OIBydMn9xIek4fDR8MGqEe",
+                "language": "en",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "O VERAO QUE MUDO MINHA VIDA",
+                "overview": "Todo ver\u00e3o, Belly e sua fam\u00edlia v\u00e3o pra casa de praia dos Fishers em Cousins. Todo ver\u00e3o \u00e9 igual... at\u00e9 Belly completar dezesseis anos. Relacionamentos novos surgir\u00e3o, verdades dolorosas ser\u00e3o reveladas e Belly mudar\u00e1 para sempre. \u00c9 um ver\u00e3o de primeiro amor, primeira desilus\u00e3o amorosa e muito crescimento - \u00e9 o ver\u00e3o em que ela fica bonita.",
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 674.131,
+                "posterPath": "https://image.tmdb.org/t/p/w342/6kgzhSluPGxyp9ao8KSXxBaGN1k.jpg",
+                "releaseDate": "2022-06-16",
+                "title": "O Ver\u00e3o Que Mudou Minha Vida",
+                "type": "directory",
+                "voteAverage": 8.311
+            },
+            {
+                "api": "tmdb",
                 "apiId": 194766,
                 "backdropPath": "https://image.tmdb.org/t/p/original/lAV3JxRj3OJpf1YDmChhdmIdadU.jpg",
                 "genres": [
@@ -4921,7 +5107,7 @@
                 "releaseDate": "2023-07-23",
                 "title": "Opera\u00e7\u00e3o: Lioness",
                 "type": "directory",
-                "voteAverage": 8.261
+                "voteAverage": 8.249
             },
             {
                 "api": "tmdb",
@@ -5063,6 +5249,28 @@
             },
             {
                 "api": "tmdb",
+                "apiId": 203344,
+                "backdropPath": "https://image.tmdb.org/t/p/original/wZBK52OMuBr7iVkMrEl1XurTXJK.jpg",
+                "genres": [
+                    "Drama"
+                ],
+                "id": "1w8MEP_vqXgksP-PNO_RRc9yiJd_JGez4",
+                "language": "ko",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Pandora: Al\u00e9m do Para\u00edso ",
+                "overview": "Hong Taera fica presa em um destino semelhante ao de Pandora da mitologia grega. Com um marido perfeito e uma filha ador\u00e1vel, Taera leva uma vida invejada por todos. Por\u00e9m, suas mem\u00f3rias reprimidas ressurgem. Ela decide se vingar e proteger sua amada fam\u00edlia.",
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 16.584,
+                "posterPath": "https://image.tmdb.org/t/p/w342/qs4fDvCmqMOl12OmObUSQkNUDYL.jpg",
+                "releaseDate": "2023-03-11",
+                "title": "Pandora: Al\u00e9m do Para\u00edso",
+                "type": "directory",
+                "voteAverage": 6.8
+            },
+            {
+                "api": "tmdb",
                 "apiId": 79084,
                 "backdropPath": "https://image.tmdb.org/t/p/original/n2RVEuvMSBUn4U06Ydhpz1whd0B.jpg",
                 "genres": [
@@ -5082,6 +5290,26 @@
                 "title": "Pose",
                 "type": "directory",
                 "voteAverage": 8.31
+            },
+            {
+                "api": "tmdb",
+                "apiId": null,
+                "backdropPath": null,
+                "genres": [],
+                "id": "13WGIrexPsqPh41H3e9BFzJt1yIT6TOZY",
+                "language": null,
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Regresso (Revenant)",
+                "overview": null,
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 0.0,
+                "posterPath": null,
+                "releaseDate": "1900-01-01",
+                "title": "Regresso (Revenant)",
+                "type": "directory",
+                "voteAverage": 0.0
             },
             {
                 "api": "tmdb",
@@ -5246,6 +5474,29 @@
             },
             {
                 "api": "tmdb",
+                "apiId": 115577,
+                "backdropPath": "https://image.tmdb.org/t/p/original/pYiIcenKt7L2cMrhn67xAxCGgzR.jpg",
+                "genres": [
+                    "Animation",
+                    "Family"
+                ],
+                "id": "1y-4C9yALZ7BT4PyOn8BymWaAm8eCW8xR",
+                "language": "en",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Sonic Prime",
+                "overview": "Uma batalha explosiva contra o Dr. Eggman abala o universo. Agora, Sonic precisa viajar por dimens\u00f5es paralelas para reencontrar os amigos e salvar o mundo.",
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 65.648,
+                "posterPath": "https://image.tmdb.org/t/p/w342/lMqruIEov5PSA7eu8mF0I4IiKda.jpg",
+                "releaseDate": "2022-12-15",
+                "title": "Sonic Prime",
+                "type": "directory",
+                "voteAverage": 8.245
+            },
+            {
+                "api": "tmdb",
                 "apiId": 198004,
                 "backdropPath": "https://image.tmdb.org/t/p/original/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
                 "genres": [
@@ -5310,6 +5561,30 @@
                 "title": "Star Trek: Strange New Worlds",
                 "type": "directory",
                 "voteAverage": 8.276
+            },
+            {
+                "api": "tmdb",
+                "apiId": 62688,
+                "backdropPath": "https://image.tmdb.org/t/p/original/jgb9xICHFX8wTGQ75js4uNbttQs.jpg",
+                "genres": [
+                    "Drama",
+                    "Sci-Fi & Fantasy",
+                    "Action & Adventure"
+                ],
+                "id": "1qUCTuOoIG5Og14mYyb1c7_XQk_lPEbbn",
+                "language": "en",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Supergirl",
+                "overview": "Para impedir um desastre, Kara Danvers revela seus poderes e sua verdadeira identidade: ela \u00e9 a Supergirl, a protetora de National City e prima do Superman.",
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 485.723,
+                "posterPath": "https://image.tmdb.org/t/p/w342/zsaiq8ZclPuneuN7loLEbsh1ANJ.jpg",
+                "releaseDate": "2015-10-26",
+                "title": "Supergirl",
+                "type": "directory",
+                "voteAverage": 7.332
             },
             {
                 "api": "tmdb",
@@ -5693,6 +5968,30 @@
             },
             {
                 "api": "tmdb",
+                "apiId": 128024,
+                "backdropPath": "https://image.tmdb.org/t/p/original/mkhT6YETfnvcox56THaVon6NrKF.jpg",
+                "genres": [
+                    "Animation",
+                    "Sci-Fi & Fantasy",
+                    "Action & Adventure"
+                ],
+                "id": "1vLVhl2JrbdLxQun9t_5_nDER6ZBrWT85",
+                "language": "en",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Unicorn Warriors Eternal",
+                "overview": "Uma equipe de her\u00f3is ancestrais protege o mundo de um mal supremo. No decorrer da hist\u00f3ria da humanidade, toda vez que o mal aparece, os her\u00f3is s\u00e3o despertados para, mais uma vez, fazer seu trabalho e derrot\u00e1-lo.",
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 28.5,
+                "posterPath": "https://image.tmdb.org/t/p/w342/w0uHVrvCQYAWA4gj4j1GOCFM54a.jpg",
+                "releaseDate": "2023-05-05",
+                "title": "Unicorn: Warriors Eternal",
+                "type": "directory",
+                "voteAverage": 6.538
+            },
+            {
+                "api": "tmdb",
                 "apiId": 210072,
                 "backdropPath": "https://image.tmdb.org/t/p/original/qI5g90xYyaenKQnAPPaBsYQGnAG.jpg",
                 "genres": [
@@ -5896,14 +6195,14 @@
         "driveId": "0AP_yuG0fiZwRUk9PVA",
         "id": "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe",
         "kind": "drive#file",
-        "length": 105,
+        "length": 118,
         "mimeType": "application/vnd.google-apps.folder",
         "name": "Series Em Exibi\u00e7\u00e3o",
         "teamDriveId": "0AP_yuG0fiZwRUk9PVA",
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-20 20:41:46.141195",
+        "buildTime": "2023-08-20 21:13:40.312757",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
