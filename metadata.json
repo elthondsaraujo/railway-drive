@@ -1,6 +1,6 @@
 [
     {
-        "buildTime": "2023-08-20 19:29:04.840602",
+        "buildTime": "2023-08-20 20:15:07.926135",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -510,7 +510,7 @@
                 "releaseDate": "2023-07-14",
                 "title": "Bird Box Barcelona",
                 "type": "file",
-                "voteAverage": 6.051
+                "voteAverage": 6.053
             },
             {
                 "adult": false,
@@ -536,7 +536,7 @@
                 "releaseDate": "2023-07-14",
                 "title": "Bird Box Barcelona",
                 "type": "file",
-                "voteAverage": 6.051
+                "voteAverage": 6.053
             },
             {
                 "adult": false,
@@ -822,7 +822,7 @@
                 "releaseDate": "2023-01-19",
                 "title": "Desaparecida",
                 "type": "file",
-                "voteAverage": 7.556
+                "voteAverage": 7.547
             },
             {
                 "adult": false,
@@ -2669,7 +2669,7 @@
                 "releaseDate": "2023-03-08",
                 "title": "P\u00e2nico VI",
                 "type": "file",
-                "voteAverage": 7.2
+                "voteAverage": 7.199
             },
             {
                 "adult": false,
@@ -3427,7 +3427,7 @@
                 "releaseDate": "2023-04-21",
                 "title": "War of the Worlds: The Attack",
                 "type": "file",
-                "voteAverage": 5.377
+                "voteAverage": 5.403
             },
             {
                 "adult": false,
@@ -3486,7 +3486,7 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-20 19:29:50.002599",
+        "buildTime": "2023-08-20 20:15:20.478417",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -5820,7 +5820,7 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-20 19:30:06.243906",
+        "buildTime": "2023-08-20 20:15:28.515379",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
