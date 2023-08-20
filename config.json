@@ -45,7 +45,7 @@
     "fetch_assets": "true",
     "refresh_token": "1//0h18xnLDO8bi2CgYIARAAGBESNwF-L9Irct6a98JR_npZspbTFLEtSdZjonBWQwqMONGpmRtJKEeWJ7KGnT6d75SzBlqwYe-HvBk",
     "remove_duplicates": "true",
-    "remove_no_poster": true,
+    "remove_no_poster": false,
     "secret_key": "NOBREFLIX",
     "tmdb_api_key": "0fffaf58a1c48ee4c1431a16aacbadae",
     "token_expiry": "",
