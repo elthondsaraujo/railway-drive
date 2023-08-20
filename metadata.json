@@ -1,6 +1,6 @@
 [
     {
-        "buildTime": "2023-08-20 20:15:07.926135",
+        "buildTime": "2023-08-20 20:41:26.039127",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -895,7 +895,7 @@
                 "releaseDate": "2023-03-23",
                 "title": "Dungeons & Dragons: Honra Entre Rebeldes",
                 "type": "file",
-                "voteAverage": 7.451
+                "voteAverage": 7.452
             },
             {
                 "adult": false,
@@ -1249,7 +1249,7 @@
                 "releaseDate": "2010-02-14",
                 "title": "Ilha do Medo",
                 "type": "file",
-                "voteAverage": 8.199
+                "voteAverage": 8.2
             },
             {
                 "adult": false,
@@ -2780,7 +2780,7 @@
                 "releaseDate": "2023-04-05",
                 "title": "Super Mario Bros.: O Filme",
                 "type": "file",
-                "voteAverage": 7.793
+                "voteAverage": 7.794
             },
             {
                 "adult": false,
@@ -3083,7 +3083,7 @@
                 "releaseDate": "2023-04-05",
                 "title": "O Exorcista do Papa",
                 "type": "file",
-                "voteAverage": 7.2
+                "voteAverage": 7.18
             },
             {
                 "adult": false,
@@ -3486,7 +3486,7 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-20 20:15:20.478417",
+        "buildTime": "2023-08-20 20:41:38.158399",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -3769,6 +3769,29 @@
                 "title": "Bel-Air",
                 "type": "directory",
                 "voteAverage": 7.905
+            },
+            {
+                "api": "tmdb",
+                "apiId": 110115,
+                "backdropPath": "https://image.tmdb.org/t/p/original/v1I0MO1uSplZiF9hxUv6UXjMSjj.jpg",
+                "genres": [
+                    "Drama",
+                    "Crime"
+                ],
+                "id": "19aKsYGcwzIgigrRF3ZNMVVgrkOxYf05y",
+                "language": "pt",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "BOM DIA VERONICA",
+                "overview": "Uma policial investiga um predador sexual e acaba descobrindo um casal com um segredo horr\u00edvel e um esquema de corrup\u00e7\u00e3o sinistro.",
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 14.919,
+                "posterPath": "https://image.tmdb.org/t/p/w342/kbyZ84DuLJGgxdMnC7bjHlcjJ3e.jpg",
+                "releaseDate": "2020-10-01",
+                "title": "Bom Dia, Ver\u00f4nica",
+                "type": "directory",
+                "voteAverage": 7.36
             },
             {
                 "api": "tmdb",
@@ -5491,6 +5514,26 @@
             },
             {
                 "api": "tmdb",
+                "apiId": null,
+                "backdropPath": null,
+                "genres": [],
+                "id": "1OlekviOSUqKcuquQbhfU4Cbhk77KtAV9",
+                "language": null,
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "The great TODAS TMP",
+                "overview": null,
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 0.0,
+                "posterPath": null,
+                "releaseDate": "1900-01-01",
+                "title": "The great TODAS TMP",
+                "type": "directory",
+                "voteAverage": 0.0
+            },
+            {
+                "api": "tmdb",
                 "apiId": 154521,
                 "backdropPath": "https://image.tmdb.org/t/p/original/7omuf1cNFyjEL1lQNxyr2ZEqslT.jpg",
                 "genres": [
@@ -5531,7 +5574,7 @@
                 "releaseDate": "2023-01-15",
                 "title": "The Last of Us",
                 "type": "directory",
-                "voteAverage": 8.674
+                "voteAverage": 8.673
             },
             {
                 "api": "tmdb",
@@ -5742,6 +5785,26 @@
             },
             {
                 "api": "tmdb",
+                "apiId": null,
+                "backdropPath": null,
+                "genres": [],
+                "id": "1FI9ayozAL6a-cINbabEwzGNFtCH-CRDg",
+                "language": null,
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Wandinha TMP01",
+                "overview": null,
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 0.0,
+                "posterPath": null,
+                "releaseDate": "1900-01-01",
+                "title": "Wandinha TMP01",
+                "type": "directory",
+                "voteAverage": 0.0
+            },
+            {
+                "api": "tmdb",
                 "apiId": 83631,
                 "backdropPath": "https://image.tmdb.org/t/p/original/mKikck71CvVISUSTLk29fwRbH4y.jpg",
                 "genres": [
@@ -5782,7 +5845,27 @@
                 "releaseDate": "2023-07-13",
                 "title": "Xuxa, O Document\u00e1rio",
                 "type": "directory",
-                "voteAverage": 5.75
+                "voteAverage": 6.6
+            },
+            {
+                "api": "tmdb",
+                "apiId": null,
+                "backdropPath": null,
+                "genres": [],
+                "id": "1dQnfUxjabnRIX2j2thhhlkKPiUnswzhV",
+                "language": null,
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Young_Royals.TMP01",
+                "overview": null,
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 0.0,
+                "posterPath": null,
+                "releaseDate": "1900-01-01",
+                "title": "Young_Royals.TMP01",
+                "type": "directory",
+                "voteAverage": 0.0
             },
             {
                 "api": "tmdb",
@@ -5813,14 +5896,14 @@
         "driveId": "0AP_yuG0fiZwRUk9PVA",
         "id": "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe",
         "kind": "drive#file",
-        "length": 101,
+        "length": 105,
         "mimeType": "application/vnd.google-apps.folder",
         "name": "Series Em Exibi\u00e7\u00e3o",
         "teamDriveId": "0AP_yuG0fiZwRUk9PVA",
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-20 20:15:28.515379",
+        "buildTime": "2023-08-20 20:41:46.141195",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
