@@ -54,8 +54,6 @@
     "transcoded": "true",
     "ui_config": {
     "custom_button": {
-    "text": "Siga o Projeto",
-    "url": "https://github.com/ss-iptv/render-drive"
     "text": "Telegram",
     "url": "https://t.me/seugrupo"
         },	
