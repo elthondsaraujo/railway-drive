@@ -1,6 +1,6 @@
 [
     {
-        "buildTime": "2023-08-20 17:02:11.012996",
+        "buildTime": "2023-08-20 19:29:04.840602",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -419,6 +419,27 @@
                 "title": "Amor, Sexo & Pandemia",
                 "type": "file",
                 "voteAverage": 2.375
+            },
+            {
+                "adult": false,
+                "api": "tmdb",
+                "apiId": null,
+                "backdropPath": null,
+                "genres": [],
+                "id": "1QlX4ZIiO1E2WYzx3MuSn_f2ufHCW061L",
+                "language": null,
+                "mimeType": "video/x-matroska",
+                "name": "Assassino a Pre\u00e7o Fixo 2011 1080p",
+                "overview": null,
+                "parents": [
+                    "1NzazeAyeuI69wu6UNlhouEEDHIUYouts"
+                ],
+                "popularity": 70.412,
+                "posterPath": null,
+                "releaseDate": "1900-01-01",
+                "title": "Assassino a Pre\u00e7o Fixo 2011 1080p",
+                "type": "file",
+                "voteAverage": 0.0
             },
             {
                 "adult": false,
@@ -1254,6 +1275,27 @@
                 "title": "Indiana Jones e A Rel\u00edquia do Destino",
                 "type": "file",
                 "voteAverage": 6.594
+            },
+            {
+                "adult": false,
+                "api": "tmdb",
+                "apiId": null,
+                "backdropPath": null,
+                "genres": [],
+                "id": "1X015h4bIF5ExpMVfO4zSUWCYhySr_tPj",
+                "language": null,
+                "mimeType": "video/x-matroska",
+                "name": "Infiltrado 2021 BluRay 1080p DUAL 5.1.mkv",
+                "overview": null,
+                "parents": [
+                    "1NzazeAyeuI69wu6UNlhouEEDHIUYouts"
+                ],
+                "popularity": 70.412,
+                "posterPath": null,
+                "releaseDate": "1900-01-01",
+                "title": "Infiltrado 2021 BluRay 1080p DUAL 5.1",
+                "type": "file",
+                "voteAverage": 0.0
             },
             {
                 "adult": false,
@@ -3437,14 +3479,14 @@
         "driveId": "0AP_yuG0fiZwRUk9PVA",
         "id": "1NzazeAyeuI69wu6UNlhouEEDHIUYouts",
         "kind": "drive#file",
-        "length": 147,
+        "length": 149,
         "mimeType": "application/vnd.google-apps.folder",
         "name": "Filmes",
         "teamDriveId": "0AP_yuG0fiZwRUk9PVA",
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-20 17:02:23.398512",
+        "buildTime": "2023-08-20 19:29:50.002599",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -4390,6 +4432,26 @@
             },
             {
                 "api": "tmdb",
+                "apiId": null,
+                "backdropPath": null,
+                "genres": [],
+                "id": "1XaY2orOgb7HayczAIGnOiUJ7zW059xV6",
+                "language": null,
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Jesus \u2013 Novela Completa",
+                "overview": null,
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 0.0,
+                "posterPath": null,
+                "releaseDate": "1900-01-01",
+                "title": "Jesus \u2013 Novela Completa",
+                "type": "directory",
+                "voteAverage": 0.0
+            },
+            {
+                "api": "tmdb",
                 "apiId": 7482,
                 "backdropPath": "https://image.tmdb.org/t/p/original/cubucYolMq8sFhw8V5e8zBoAcjD.jpg",
                 "genres": [
@@ -5138,6 +5200,29 @@
             },
             {
                 "api": "tmdb",
+                "apiId": 125988,
+                "backdropPath": "https://image.tmdb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg",
+                "genres": [
+                    "Sci-Fi & Fantasy",
+                    "Drama"
+                ],
+                "id": "1EFOP6ZB4dQRcsPIW2O31OAgVM3aeDHca",
+                "language": "en",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "SILO",
+                "overview": "Em um futuro destru\u00eddo e t\u00f3xico, existe uma comunidade que vive dentro de um gigantesco silo subterr\u00e2neo com centenas de andares de profundidade. L\u00e1, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para proteg\u00ea-los.",
+                "parents": [
+                    "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
+                ],
+                "popularity": 192.267,
+                "posterPath": "https://image.tmdb.org/t/p/w342/n1mtrn5NpyzToGvaPJMtNipejQz.jpg",
+                "releaseDate": "2023-05-04",
+                "title": "Silo",
+                "type": "directory",
+                "voteAverage": 8.299
+            },
+            {
+                "api": "tmdb",
                 "apiId": 198004,
                 "backdropPath": "https://image.tmdb.org/t/p/original/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
                 "genres": [
@@ -5728,14 +5813,14 @@
         "driveId": "0AP_yuG0fiZwRUk9PVA",
         "id": "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe",
         "kind": "drive#file",
-        "length": 99,
+        "length": 101,
         "mimeType": "application/vnd.google-apps.folder",
         "name": "Series Em Exibi\u00e7\u00e3o",
         "teamDriveId": "0AP_yuG0fiZwRUk9PVA",
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-20 17:02:31.604686",
+        "buildTime": "2023-08-20 19:30:06.243906",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
