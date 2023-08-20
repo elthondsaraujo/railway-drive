@@ -55,7 +55,7 @@
     "ui_config": {
     "custom_button": {
     "text": "Siga",
-    "url": "http://tiny.cc/libdrive"
+    "url": "#"
         },	
     "arcio": "",
     "service_accounts": [],
