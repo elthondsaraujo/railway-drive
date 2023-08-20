@@ -9,7 +9,7 @@
         }
     ],
     "adult": "false",
-    "auth": "false",
+    "auth": "true",
     "signup": "false",
     "build_interval": 180,
     "build_type": "hybrid",
