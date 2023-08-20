@@ -1,10 +1,10 @@
 {
-    "access_token": "ya29.a0AfB_byCZIfD4tjX0ap91txLsBqie_hueThVUr6wifVDrWC5HJkGh2G3UMo5Ztk4JNYmzi50D0RKNQzO8AtGI8akypz9RsPV32b6JV2QVHt2mX2a9SUH7H7I0l683oK9Hr4NAq7XOrEe3Q1oRgejhNrQMjIe_Kys53LKNpgaCgYKATkSARMSFQHsvYls3ga-x1GCrf2M2yNh134F5A0173",
+    "access_token": "ya29.a0AfB_byA4cchvKI7YU_oVwDluIs1rXLdLvw5xsvjZAXT_0xcgWmByBJlXXlk_hC42jzw3QeSjGMDu_VXYjQAGfNqkrrlGrzZQ16kiGTlT9QUxK_QwIgtM1WYIMoQdXmOJmhrpIc0AV3zkH3NT7SEugVyB3uDRW0Leml4pJwaCgYKASkSARMSFQHsvYlsGeaUZqgGlRg5ywam6B-J1g0173",
     "account_list": [
         {
             "username": "henrique2410",
-            "password": "HENRIQUE2410@",
-            "pic": "https://nobreflix.eu.org/uploads/system_logo/logo_64dce96b38c0d.png",
+            "password": "Idalina2410@",
+            "pic": "",
             "auth": "0jler2t7iklhq7m9i9y84rmw6b3g0u6cwpvex47sylerauvmxz"
         }
     ],
@@ -17,7 +17,7 @@
         {
             "adult": false,
             "anilist": false,
-            "id": "1NzazeAyeuI69wu6UNlhouEEDHIUYouts",
+            "id": "1c9Twilj4qWZw7cDWFbqFy8MU-S0BCPif",
             "language": "pt",
             "name": "FILMES",
             "type": "Movies"
@@ -25,7 +25,7 @@
         {
             "adult": false,
             "anilist": false,
-            "id": "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe",
+            "id": "1SCwosl1qzJVVdS1KOG239MF3FUipd6fp",
             "language": "pt",
             "name": "SERIES",
             "type": "TV Shows"
@@ -33,17 +33,17 @@
         {
             "adult": false,
             "anilist": false,
-            "id": "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH",
+            "id": "1abPG30dYMX81Eni26mGEtDFCQncyigG_",
             "language": "pt",
             "name": "ANIMES",
             "type": "Movies"
         }
     ],
-    "client_id": "774103035544-i2ru30rpjrad345qptgr3am75ir9stpg.apps.googleusercontent.com",
-    "client_secret": "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",
+    "client_id": "229235645044-mb5hp4l146vm39iajmcf35epcb6throi.apps.googleusercontent.com",
+    "client_secret": "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",
     "cloudflare": "",
     "fetch_assets": "true",
-    "refresh_token": "1//0hqbHzrnkq5LrCgYIARAAGBESNwF-L9IrWVKkZFUtcJVl_hg830DyNMZ1bI09J4f3XvRGN66WTBuAnFdcBH2eQMdOlWqpkhNOHNo",
+    "refresh_token": "1//0hDhnd7ZAWod3CgYIARAAGBESNwF-L9IrAjGiX5I2KT3oVDWj2ZzV7fse5d2KVs6mVyoYVsw-nL4imqe9uVG1x8ZvYIZADrN8M_g",
     "remove_duplicates": "true",
     "remove_no_poster": "false",
     "secret_key": "NOBREFLIX",
