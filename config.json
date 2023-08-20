@@ -10,7 +10,7 @@
     ],
     "adult": "false",
     "arcio": "",
-    "auth": "true",
+    "auth": "false",
     "build_interval": 180,
     "build_type": "hybrid",
     "category_list": [
@@ -53,7 +53,7 @@
     "prefer_mp4": "true",
     "transcoded": "true",
     "service_accounts": [],
-    "signup": false,
+    "signup": true,
     "ui_config": {
         "custom_button": {
             "text": "Siga",
