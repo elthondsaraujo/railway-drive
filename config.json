@@ -11,7 +11,7 @@
     "adult": "false",
     "auth": false,
     "signup": false,
-    "build_interval": 15,
+    "build_interval": 0,
     "build_type": "hybrid",
     "category_list": [
         {
