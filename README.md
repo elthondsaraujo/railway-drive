@@ -1,58 +1,106 @@
-0 - Fork This Repo and upload your config.json
-
-1 - Click in  RailWay button
-
-2 - Sign in with GitHub to Deploy
-
-3 - Sign in to GitHub - to continue to Railway App
-
-4 - Authorize  Railway App
-
-5 - verify your account to deploy
-
-6 - Again Click in  RailWay button
-
-7 - Configure which accounts and orgs railway has access to
-
-8 - Install & Authorize Railway App
-
-8.1 - If you need - (Again Click in  RailWay button)
-
-9 - Give a name - add Add values LIBDRIVE_CLOUD  and LIBDRIVE_CONFIG 
-
-10 - And Deploy
-
-Sorry my poor english.
-
-Deploy only 1 time to preserve resources
-
-=======
-
-- demo: https://libdester.up.railway.app/
-
-- user: demo     pass:demo
-
-<!---
-ss-iptv/ss-iptv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/elthondsaraujo/railway-drive">
-    <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-bluet?style=for-the-badge&logo=heroku" width="200" />
+<a href="#">
+  <h3 align="center">
+    <img src="https://i.ibb.co/HVB5Dw1/lib-Drive-Header.png" width="600px" />
+  </h3>
+</a>
+<p align="center">
+  <a href="https://github.com/libDrive/libDrive/releases">
+    <img src="https://img.shields.io/github/downloads/libDrive/libDrive/total?color=%234197fe&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/libDrive/libDrive/releases/latest">
+    <img src="https://img.shields.io/github/v/release/libDrive/libDrive?color=%234197fe&style=for-the-badge" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://heroku.com/deploy?template=https://github.com/libDrive/heroku">
+    <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://t.me/libdrive_support">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/42px-Telegram_logo.svg.png" width="42" />
   </a>
 </p>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Felthondsaraujo%2Frailway-drive&envs=LIBDRIVE_CLOUD%2CLIBDRIVE_CONFIG&LIBDRIVE_CLOUDDesc=The+ID+of+any+empty+Google+Drive+folder.+This+folder+will+be+used+to+store+the+config+and+metadata+generated+by+libDrive&LIBDRIVE_CONFIGDesc=Create+this+through+the+config+generator%3A+https%3A%2F%2Fconfig.libdrive.tk.+Make+sure+to+read+the+meaning+of+each+variable+on+the+wiki%3A+https%3A%2F%2Fgithub.com%2FlibDrive%2FlibDrive%2Fwiki%2FConfig)
+# What is this repo?
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/elthondsaraujo/railway-drive/tree/main)
+libDrive is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.
 
+I decided to create this project to, of course, organize my Google Drive library, but also develop my coding skills, and learn JavaScript in the process.
 
-=======
-Regards from Brazil
+This repository (<https://github.com/libDrive/libDrive>) only acts as a hub for information and community discussions regarding libDrive, no source code is displayed on this repository.
 
-Removed all LibDRiv* references  to try avoid ban acc in heroku. Works? i Dont No !!!
+## Source code
 
-Credits Elias - eliasbenb and Dester Alken
+- [libDrive/libDrive](https://github.com/libDrive/libDrive)
+- [libDrive/server](https://github.com/libDrive/server)
+- [libDrive/web](https://github.com/libDrive/web)
+- [libDrive/cloudflare](https://github.com/libDrive/cloudflare)
+- [libDrive/heroku](https://github.com/libDrive/heroku)
+- [libDrive/config](https://github.com/libDrive/config)
 
+## Features
 
-Please, Follow my son's YouTube channel - https://www.youtube.com/channel/UCIGDblP2lOIHstz90SMe-qw
+- 🍿 Movie, TV Show and Anime media management
+- 📜 Automatic information gathering and display of:
+  - Title
+  - Trailer
+  - Release date
+  - Poster image
+  - Synopsis
+  - Rating
+  - Language
+  - Genres
+- 👥 User management which includes:
+  - Public [sign up](https://github.com/libDrive/libDrive/wiki/Config#signup)
+  - Closed signup (manual account creation)
+  - [No authentication](https://github.com/libDrive/libDrive/wiki/Config#auth) (public)
+  - [Whitelisting](https://github.com/libDrive/libDrive/wiki/Config#category_list)
+  - [Blacklisting](https://github.com/libDrive/libDrive/wiki/Config#account_list)
+- 🔀 Quality selection using Google Drive [transcoded videos](https://github.com/libDrive/libDrive/wiki/Config#transcoded)
+- 🔎 [Search](https://github.com/libDrive/libDrive/wiki/Screenshots#search-page) functionality
+- 🤹 Genre filters
+- 🧾 [Service accounts](https://github.com/libDrive/libDrive/wiki/Config#service_accounts-optional) to bypass 750GB/day download limit
+- 🌟 [Starred lists](https://github.com/libDrive/libDrive/wiki/Screenshots#starred-lists-page), which are like favorite lists that allow you to add any media and put them into a list
+- 🕑 A pseudo watch history, which is used to automatically go to the last episode you were watching in TV Shows
+- ©️ [Softcoded subtitles](https://github.com/libDrive/libDrive/wiki/Config#subtitles) support, this includes user uploaded subtitles and subtitles stored on Google Drive
+- 🈂️ [Language](https://github.com/libDrive/libDrive/wiki/Config#category_list) switching support
+- ⚙️ [Admin panel](https://github.com/libDrive/libDrive/wiki/Screenshots#settings-page) interface
+- 📺 [Serverless video CDN](https://github.com/libDrive/libDrive/wiki/Setup#prerequisites) host support (such as Cloudflare)
+- ⌛ Automated metadata building with [custom interval](https://github.com/libDrive/libDrive/wiki/Config#build_interval)
+- 📱 Progressive web app (PWA) installation support
+- 💸 Embedded [arc.io support](https://github.com/libDrive/libDrive/wiki/Config#arcio-optional)
+- 🎨 4 custom [themes](https://github.com/libDrive/libDrive/wiki/Screenshots#themes)
+- 🤳 Mobile friendly interface
+
+## To do list
+
+- Allow multiple folders for one category
+
+# Wiki links
+
+- [wiki/Build](https://github.com/libDrive/libDrive/wiki/Build)
+- [wiki/Config](https://github.com/libDrive/libDrive/wiki/Config)
+- [wiki/Contributors](https://github.com/libDrive/libDrive/wiki/Contributors)
+- [wiki/Demo](https://github.com/libDrive/libDrive/wiki/Demo)
+- [wiki/FAQ](https://github.com/libDrive/libDrive/wiki/FAQ)
+- [wiki/Screenshots](https://github.com/libDrive/libDrive/wiki/Screenshots)
+- [wiki/Setup](https://github.com/libDrive/libDrive/wiki/Setup)
+- [wiki/Structure](https://github.com/libDrive/libDrive/wiki/Structure)
+
+# Funding
+
+Help support me and libDrive by funding this project through one of the following mediums
+
+- [Ko-fi](https://ko-fi.com/eliasbenb)
+- [PayPal](http://paypal.me/eliasbenb)
+
+If you don't have any money to spare you can still support me by settings the `arcio` config variable to `dev`!
+
+# Preview
+
+![preview](https://user-images.githubusercontent.com/54410649/127863841-833b0b00-ff7d-4585-9e5e-09c356a0f59f.png)
+
+You can access a demo of libDrive at <https://demo.libdrive.tk>
+
+You can also access a static build of libDrive at <https://web.libdrive.tk> but you would need an active server to login (this is not a demo)
