@@ -1,6 +1,6 @@
 [
     {
-        "buildTime": "2023-08-23 23:07:58.913294",
+        "buildTime": "2023-08-23 23:15:19.179233",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -4176,7 +4176,7 @@
                 "releaseDate": "1999-07-28",
                 "title": "Do Fundo do Mar",
                 "type": "file",
-                "voteAverage": 5.958
+                "voteAverage": 5.959
             },
             {
                 "adult": false,
@@ -13957,7 +13957,7 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-23 23:09:44.371160",
+        "buildTime": "2023-08-23 23:17:07.895458",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -17081,7 +17081,7 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-23 23:10:10.422189",
+        "buildTime": "2023-08-23 23:17:29.417891",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -17090,13 +17090,322 @@
             "name": "ANIMES",
             "type": "TV Shows"
         },
-        "children": [],
+        "children": [
+            {
+                "api": "tmdb",
+                "apiId": 94605,
+                "backdropPath": "https://image.tmdb.org/t/p/original/rkB4LyZHo1NHXFEDHl9vSD9r1lI.jpg",
+                "genres": [
+                    "Animation",
+                    "Drama",
+                    "Sci-Fi & Fantasy",
+                    "Action & Adventure"
+                ],
+                "id": "1Gi1Mvm5yaAjFB_HbRUnMqYuoPDooEgPL",
+                "language": "en",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Arcane",
+                "overview": "Em meio ao conflito entre as cidades-g\u00eameas de Piltover e Zaun, duas irm\u00e3s lutam em lados opostos de uma guerra entre tecnologias m\u00e1gicas e convic\u00e7\u00f5es incompat\u00edveis.",
+                "parents": [
+                    "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH"
+                ],
+                "popularity": 63.546,
+                "posterPath": "https://image.tmdb.org/t/p/w342/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+                "releaseDate": "2021-11-06",
+                "title": "Arcane",
+                "type": "directory",
+                "voteAverage": 8.744
+            },
+            {
+                "api": "tmdb",
+                "apiId": 30984,
+                "backdropPath": "https://image.tmdb.org/t/p/original/qtfMr08KQsWXnCHY0a96N8NpQ2l.jpg",
+                "genres": [
+                    "Action & Adventure",
+                    "Animation",
+                    "Sci-Fi & Fantasy"
+                ],
+                "id": "1xOM5Xt4zx29AkdGbWJ39gd-IT2qF3xZF",
+                "language": "ja",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Bleach",
+                "overview": "Ichigo Kurosaki \u00e9 um garoto de 15 anos que tem uma estranha capacidade  de ver, tocar e falar com esp\u00edritos de pessoas mortas. Logo que a  shinigami Rukia Kuchiki toma conhecimento dos poderes de Ichigo, vai  atr\u00e1s dele para investigar, e acaba em uma luta com um Hollow que foi  atra\u00eddo pelo forte poder espiritual de Ichigo. Antes de ser derrotada  pela criatura, Rukia passa seus poderes a Ichigo, o qual se torna um  shinigami, e ap\u00f3s derrotar o Hollow ingressa em uma jornada para  proteger os humanos e os esp\u00edritos da amea\u00e7a dos Hollows.",
+                "parents": [
+                    "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH"
+                ],
+                "popularity": 459.434,
+                "posterPath": "https://image.tmdb.org/t/p/w342/guyS28A4IxwoMXIq3Xj9AszMefP.jpg",
+                "releaseDate": "2004-10-05",
+                "title": "Bleach",
+                "type": "directory",
+                "voteAverage": 8.396
+            },
+            {
+                "api": "tmdb",
+                "apiId": 114410,
+                "backdropPath": "https://image.tmdb.org/t/p/original/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
+                "genres": [
+                    "Animation",
+                    "Action & Adventure",
+                    "Sci-Fi & Fantasy",
+                    "Comedy"
+                ],
+                "id": "1-8i8RlBvXdXMC8qJGYj7uDtiRWyCbW5k",
+                "language": "ja",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Chainsaw Man",
+                "overview": "Denji tem um sonho simples - viver uma vida feliz e pac\u00edfica, passando um tempo com uma garota de quem gosta. Isso est\u00e1 muito longe da realidade, no entanto, j\u00e1 que Denji \u00e9 for\u00e7ado pela yakuza a matar dem\u00f4nios para pagar suas d\u00edvidas esmagadoras. Usando seu dem\u00f4nio de estima\u00e7\u00e3o Pochita como arma, ele est\u00e1 pronto para fazer qualquer coisa por um pouco de dinheiro.",
+                "parents": [
+                    "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH"
+                ],
+                "popularity": 144.922,
+                "posterPath": "https://image.tmdb.org/t/p/w342/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
+                "releaseDate": "2022-10-12",
+                "title": "Chainsaw Man",
+                "type": "directory",
+                "voteAverage": 8.634
+            },
+            {
+                "api": "tmdb",
+                "apiId": 13916,
+                "backdropPath": "https://image.tmdb.org/t/p/original/2Yfzm5857lprGonYPl30XgEpTry.jpg",
+                "genres": [
+                    "Animation",
+                    "Mystery",
+                    "Sci-Fi & Fantasy"
+                ],
+                "id": "1ul8h8D4GYWaUSOxvyghhoqMzh8Lh2aJ0",
+                "language": "ja",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Death Note",
+                "overview": "O jovem estudante Light Yagami acha um caderno com poderes sobrenaturais, chamado Death Note, no qual \u00e9 poss\u00edvel matar uma pessoa apenas escrevendo seu nome no caderno. Quando o descobre, Light tenta eliminar todos os criminosos do mundo e dar \u00e0 sociedade um mundo livre do mal. Mas seus planos come\u00e7am a sair de rumo quando o detetive L resolve contrariar Light.",
+                "parents": [
+                    "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH"
+                ],
+                "popularity": 96.61,
+                "posterPath": "https://image.tmdb.org/t/p/w342/iigTJJskR1PcjjXqxdyJwVB3BoU.jpg",
+                "releaseDate": "2006-10-04",
+                "title": "Death Note",
+                "type": "directory",
+                "voteAverage": 8.641
+            },
+            {
+                "api": "tmdb",
+                "apiId": 12609,
+                "backdropPath": "https://image.tmdb.org/t/p/original/nokCMxb0u5YtLsu7RGs4oUiA8DK.jpg",
+                "genres": [
+                    "Animation",
+                    "Action & Adventure",
+                    "Sci-Fi & Fantasy"
+                ],
+                "id": "1n5tRx1_om76VdT_G9dtBFnR6zqGWi46N",
+                "language": "ja",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Dragon Ball (1986) - 360p",
+                "overview": "Bulma \u00e9 uma garota em busca das m\u00edsticas esferas do drag\u00e3o que, quando reunidas, concedem qualquer desejo. Em sua busca, ela encontra o dono de uma dessas esferas, um garoto estranho chamado Goku. Os dois ent\u00e3o partem juntos em busca das outras esferas do drag\u00e3o.",
+                "parents": [
+                    "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH"
+                ],
+                "popularity": 15.254,
+                "posterPath": "https://image.tmdb.org/t/p/w342/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg",
+                "releaseDate": "1986-02-26",
+                "title": "Dragon Ball",
+                "type": "directory",
+                "voteAverage": 8.248
+            },
+            {
+                "api": "tmdb",
+                "apiId": 12697,
+                "backdropPath": "https://image.tmdb.org/t/p/original/aJOlYXjxb5IvnTsO4I1tmFpC7GH.jpg",
+                "genres": [
+                    "Animation",
+                    "Action & Adventure",
+                    "Sci-Fi & Fantasy"
+                ],
+                "id": "1-kvXq89NXdcfP46CpxIOKu5HjOooI_mh",
+                "language": "ja",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Dragon Ball GT (1996) - 360p",
+                "overview": "A hist\u00f3ria se passa 10 anos ap\u00f3s o final da saga Z, Goku reencontra vil\u00f5es de sua inf\u00e2ncia, que est\u00e3o roubando as esferas do drag\u00e3o que est\u00e3o no templo do kamisama, goku descobre o que eles est\u00e3o tramando e por um engano, pilaf deseja que Shenlong transforme Goku em crian\u00e7a, agora as esferas se espalharam pelo universo e goku e seus amigos tem apenas um ano para encontrar todas, antes que a terra exploda. Eles embarcam numa aventura em busca das 7 esferas do drag\u00e3o.",
+                "parents": [
+                    "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH"
+                ],
+                "popularity": 10.9,
+                "posterPath": "https://image.tmdb.org/t/p/w342/rLHhDpv6rrhuzBjNzaMRNv2fng.jpg",
+                "releaseDate": "1996-02-07",
+                "title": "Dragon Ball GT",
+                "type": "directory",
+                "voteAverage": 7.682
+            },
+            {
+                "api": "tmdb",
+                "apiId": 80020,
+                "backdropPath": "https://image.tmdb.org/t/p/original/xlKKD1TXJvh0YYlVPqqQ3g3ZUjM.jpg",
+                "genres": [
+                    "Animation",
+                    "Action & Adventure",
+                    "Sci-Fi & Fantasy"
+                ],
+                "id": "1ht8PkEjSAthdkBM1lIsj5rNNgjGzxrBI",
+                "language": "ja",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Dragon Ball Super",
+                "overview": "Trunks retorna do futuro para treinar com Goku e Vegeta. No entanto, desaparece sem aviso pr\u00e9vio. Ent\u00e3o o misterioso Fu aparece, dizendo que Trunks foi aprisionado no Planeta da Pris\u00e3o, um complexo misterioso em um lugar desconhecido nos universos. O grupo procura das esferas do drag\u00e3o para libertar Trunks, mas uma batalha sem fim espera por eles! Goku e os outros v\u00e3o resgatar Trunks e escapar do Planeta da Pris\u00e3o?",
+                "parents": [
+                    "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH"
+                ],
+                "popularity": 195.685,
+                "posterPath": "https://image.tmdb.org/t/p/w342/8jq6xv5c1WK7KAPOXCsodm8eUxp.jpg",
+                "releaseDate": "2018-07-01",
+                "title": "Super Dragon Ball Heroes",
+                "type": "directory",
+                "voteAverage": 7.566
+            },
+            {
+                "api": "tmdb",
+                "apiId": 12971,
+                "backdropPath": "https://image.tmdb.org/t/p/original/urj6noDW3OlROu34oy6BCmiQEWQ.jpg",
+                "genres": [
+                    "Animation",
+                    "Sci-Fi & Fantasy",
+                    "Action & Adventure"
+                ],
+                "id": "1oBJB_Amc_vF_ND9CPaIUS1JAkaBK_d_0",
+                "language": "ja",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Dragon Ball Z (1989) - 360p",
+                "overview": "Cinco anos ap\u00f3s vencer o Torneio Mundial de Artes Marciais, Goku tem uma vida pac\u00edfica com sua esposa e filho. No entanto, isso muda com a chegada de um misterioso inimigo chamado Raditz, que se apresenta como o irm\u00e3o perdido de Goku e revela que ele \u00e9 um guerreiro da ra\u00e7a Saiyan, e que originalmente foi enviado \u00e0 Terra para conquista-la. Com sua tentativa fracassada de recrutar Goku como aliado, Raditz adverte Goku e seus amigos de que uma nova amea\u00e7a se aproxima rapidamente da Terra, uma que poderia mergulhar o planeta em um conflito intergal\u00e1ctico e fazer os pr\u00f3prios c\u00e9us tremerem. Uma guerra ser\u00e1 travada pelas esferas m\u00edsticas do drag\u00e3o, e somente os mais fortes sobreviver\u00e3o.",
+                "parents": [
+                    "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH"
+                ],
+                "popularity": 321.896,
+                "posterPath": "https://image.tmdb.org/t/p/w342/dBsDWUcdfbuZwglgyeeQ9ChRoS4.jpg",
+                "releaseDate": "1989-04-26",
+                "title": "Dragon Ball Z",
+                "type": "directory",
+                "voteAverage": 8.325
+            },
+            {
+                "api": "tmdb",
+                "apiId": 31910,
+                "backdropPath": "https://image.tmdb.org/t/p/original/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+                "genres": [
+                    "Animation",
+                    "Action & Adventure",
+                    "Sci-Fi & Fantasy"
+                ],
+                "id": "1lCqrAExFG-sG6Yfp8-4cyU_V0oGnBkbg",
+                "language": "ja",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Naruto Shippuden",
+                "overview": "Naruto Shippuden ocorre 2 anos e meio ap\u00f3s Naruto ter ficado para  treinar com Jiraiya. Ap\u00f3s seu retorno, Naruto descobre que seus amigos  shinobi's o superaram na classifica\u00e7\u00e3o, e ele caiu para tr\u00e1s. No  entanto, com apenas 6 meses para resgatar Sasuke, Naruto tem de  enfrentar inimigos ainda mais perigosos. O plano da Akatsuki se revela  lentamente e os perigos surgem mais do que nunca!",
+                "parents": [
+                    "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH"
+                ],
+                "popularity": 204.626,
+                "posterPath": "https://image.tmdb.org/t/p/w342/nRJmByfK9XdtOY73VArcN8KpKVs.jpg",
+                "releaseDate": "2007-02-15",
+                "title": "Naruto Shippuden",
+                "type": "directory",
+                "voteAverage": 8.558
+            },
+            {
+                "api": "tmdb",
+                "apiId": 37854,
+                "backdropPath": "https://image.tmdb.org/t/p/original/a6ptrTUH1c5OdWanjyYtAkOuYD0.jpg",
+                "genres": [
+                    "Action & Adventure",
+                    "Comedy",
+                    "Animation"
+                ],
+                "id": "117zCXqtIfg4rwRRrxdD16yClIvYGjW9f",
+                "language": "ja",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "One Piece",
+                "overview": "Houve um homem que conquistou tudo aquilo que o mundo tinha a oferecer, o lend\u00e1rio Rei dos Piratas, Gold Roger. Capturado e condenado \u00e0 execu\u00e7\u00e3o pelo Governo Mundial, suas \u00faltimas palavras lan\u00e7aram legi\u00f5es aos mares. \"Meu tesouro? Se quiserem, podem peg\u00e1-lo. Procurem-no! Ele cont\u00e9m tudo que este mundo pode oferecer!\". Foi a revela\u00e7\u00e3o do maior tesouro, o One Piece, cobi\u00e7ado por homens de todo o mundo, sonhando com fama e riqueza imensur\u00e1veis... Assim come\u00e7ou a Grande Era dos Piratas!",
+                "parents": [
+                    "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH"
+                ],
+                "popularity": 191.612,
+                "posterPath": "https://image.tmdb.org/t/p/w342/yBYDzzmNoT5uXkXo3NGatLIANYK.jpg",
+                "releaseDate": "1999-10-20",
+                "title": "One Piece",
+                "type": "directory",
+                "voteAverage": 8.723
+            },
+            {
+                "api": "tmdb",
+                "apiId": null,
+                "backdropPath": null,
+                "genres": [],
+                "id": "16hfG3YKSau7dljth63WKzUj1olTokiWP",
+                "language": null,
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "One Puch-Man",
+                "overview": null,
+                "parents": [
+                    "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH"
+                ],
+                "popularity": 0.0,
+                "posterPath": null,
+                "releaseDate": "1900-01-01",
+                "title": "One Puch-Man",
+                "type": "directory",
+                "voteAverage": 0.0
+            },
+            {
+                "api": "tmdb",
+                "apiId": 31713,
+                "backdropPath": "https://image.tmdb.org/t/p/original/5uZ80WFcMe39ZLBgZBistqmDOp.jpg",
+                "genres": [
+                    "Animation"
+                ],
+                "id": "1G4cDW0Hffkqi7p_qQxTbSr8KM0H9xdeV",
+                "language": "ja",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Street Fighter II: Victory",
+                "overview": "Ryu e Ken s\u00e3o grandes amigos e treinaram artes marciais juntos quando crian\u00e7as. No intuito de se tornarem mais fortes e aprenderem novas t\u00e9cnicas, eles viajam o mundo e conhecem novos estilos de luta e novas pessoas. Durante a jornada eles acabam entrando em uma cilada preparada por uma misteriosa organiza\u00e7\u00e3o chamada Shadowlaw, os dois agora devem enfrentar o desafio final por suas vidas combatendo o maligno Mr. Bison.",
+                "parents": [
+                    "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH"
+                ],
+                "popularity": 44.792,
+                "posterPath": "https://image.tmdb.org/t/p/w342/u0r1yPtf1FIXWYiEvmY8z76eUH7.jpg",
+                "releaseDate": "1995-04-10",
+                "title": "Street Fighter II: Victory",
+                "type": "directory",
+                "voteAverage": 7.379
+            },
+            {
+                "api": "tmdb",
+                "apiId": 1988,
+                "backdropPath": "https://image.tmdb.org/t/p/original/mzd2AqNTgZ8EA9XyyTbh2cB16ib.jpg",
+                "genres": [
+                    "Animation",
+                    "Sci-Fi & Fantasy",
+                    "Action & Adventure"
+                ],
+                "id": "1YxR46vwQ4E6TCFvfQ-OpNjG4pdewkBPd",
+                "language": "en",
+                "mimeType": "application/vnd.google-apps.folder",
+                "name": "Thundercats",
+                "overview": "As aventuras de um grupo de humanoides felinos do planeta Thundera. Quando o planeta moribundo encontra seu fim, os ThunderCats s\u00e3o for\u00e7ados a abandonar sua terra natal. Em seu novo planeta, eles precisam lutar contra Mumm-Ra para defender seu lar.",
+                "parents": [
+                    "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH"
+                ],
+                "popularity": 170.318,
+                "posterPath": "https://image.tmdb.org/t/p/w342/fz23hySaUzpE71CvwcZXMDwqK1u.jpg",
+                "releaseDate": "1985-01-23",
+                "title": "ThunderCats",
+                "type": "directory",
+                "voteAverage": 8.17
+            }
+        ],
         "driveId": "0AP_yuG0fiZwRUk9PVA",
         "id": "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH",
         "kind": "drive#file",
-        "length": 0,
+        "length": 13,
         "mimeType": "application/vnd.google-apps.folder",
-        "name": "ANIMES",
+        "name": "Animes",
         "teamDriveId": "0AP_yuG0fiZwRUk9PVA",
         "type": "directory"
     }
