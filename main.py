@@ -21,7 +21,7 @@ import src.functions.tests
 
 colorama.init()
 print(
-    "====================================================\n\033[96m               libDrive - v1.4.7\033[94m\n                   @eliasbenb\033[0m\n====================================================\n"
+    "====================================================\n\033[96m               CineClick - v2.1\033[94m\n                   @araujo\033[0m\n====================================================\n"
 )
 
 print("\033[32mREADING CONFIG...\033[0m")
@@ -70,7 +70,7 @@ print("DONE.\n")
 
 if not config.get("account_list"):
     config["account_list"] = []
-if config.get("account_list") == [] and config.get("signup") == False:
+if config.get("account_list") == [] and config.get("signup") == True:
     config["auth"] = False
 if not config.get("auth"):
     config["auth"] = False
@@ -83,13 +83,13 @@ if not config.get("category_list"):
 if not config.get("cloudflare"):
     config["cloudflare"] = ""
 if not config.get("prefer_mkv"):
-    config["prefer_mkv"] = False
+    config["prefer_mkv"] = True
 if not config.get("prefer_mp4"):
     config["prefer_mp4"] = True
 if not config.get("service_accounts"):
     config["service_accounts"] = []
 if not config.get("signup"):
-    config["signup"] = False
+    config["signup"] = True
 if not config.get("subtitles"):
     config["subtitles"] = False
 if not config.get("transcoded"):
@@ -100,14 +100,13 @@ if not config.get("ui_config"):
 with open("config.json", "w+") as w:
     json.dump(obj=config, fp=w, sort_keys=True, indent=4)
 
-'''
 print("\033[32mTESTING YOUR CONFIG...\033[0m")
 src.functions.tests.tmdb_test(config)
 src.functions.tests.category_list_test(config)
 src.functions.tests.account_list_test(config)
 src.functions.tests.cloudflare_test(config)
 print("DONE.\n")
-'''
+
 
 def threaded_metadata():
     for thread in threading.enumerate():
@@ -117,7 +116,7 @@ def threaded_metadata():
                 {
                     "code": 500,
                     "content": None,
-                    "message": "libDrive is already building metadata, please wait.",
+                    "message": "Drive is already building metadata, please wait.",
                     "success": False,
                 },
                 500,
@@ -138,7 +137,7 @@ def threaded_metadata():
         {
             "code": 200,
             "content": None,
-            "message": "libDrive is building your new metadata.",
+            "message": "Drive is building your new metadata.",
             "success": True,
         },
         200,

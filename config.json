@@ -11,7 +11,7 @@
     "adult": "false",
     "auth": false,
     "signup": false,
-    "build_interval": 0,
+    "build_interval": 15,
     "build_type": "hybrid",
     "category_list": [
         {
@@ -33,10 +33,10 @@
         {
             "adult": false,
             "anilist": false,
-            "id": "15g7CF7msmHFWMn2L1gLrY2OLeGFKnW3p",
+            "id": "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH",
             "language": "pt-BR",
             "name": "ANIMES",
-            "type": "ANIMES"
+            "type": "TV Shows"
         }
     ],
     "client_id": "229235645044-mb5hp4l146vm39iajmcf35epcb6throi.apps.googleusercontent.com",
