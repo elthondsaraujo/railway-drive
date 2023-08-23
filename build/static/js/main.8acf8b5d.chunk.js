@@ -419,7 +419,7 @@
                                     })) : null, this.props.tv ? Object(y.jsxs)("div", {
                                         children: [Object(y.jsx)(f.a, {}), Object(y.jsx)(x.a, {
                                             onClick: this.handleSeason,
-                                            children: "Entire Season"
+                                            children: "Temporada Completa"
                                         })]
                                     }) : null]
                                 })]
@@ -1758,9 +1758,9 @@
                                     }), Object(y.jsx)(Ke.a.Menu, {
                                         children: Object(y.jsx)(Ke.a.Item, {
                                             onClick: function() {
-                                                return e.handleTheme("dark")
+                                                return e.handleTheme("lite")
                                             },
-                                            children: "Dark"
+                                            children: "Lite"
                                         })
                                     })]
                                 })

@@ -1,6 +1,6 @@
 [
     {
-        "buildTime": "2023-08-23 23:15:19.179233",
+        "buildTime": "2023-08-23 23:36:15.862299",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -10062,7 +10062,7 @@
                 "releaseDate": "1990-11-20",
                 "title": "O Predador 2: A Ca\u00e7ada Continua",
                 "type": "file",
-                "voteAverage": 6.252
+                "voteAverage": 6.253
             },
             {
                 "adult": false,
@@ -11222,7 +11222,7 @@
                 "releaseDate": "2023-06-09",
                 "title": "Seja Voc\u00ea Mesma",
                 "type": "file",
-                "voteAverage": 6.394
+                "voteAverage": 6.4
             },
             {
                 "adult": false,
@@ -13957,7 +13957,7 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-23 23:17:07.895458",
+        "buildTime": "2023-08-23 23:38:32.746306",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -17081,7 +17081,7 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-23 23:17:29.417891",
+        "buildTime": "2023-08-23 23:38:54.392238",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -17341,7 +17341,7 @@
                 "id": "16hfG3YKSau7dljth63WKzUj1olTokiWP",
                 "language": null,
                 "mimeType": "application/vnd.google-apps.folder",
-                "name": "One Puch-Man",
+                "name": "One Puch Man",
                 "overview": null,
                 "parents": [
                     "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH"
@@ -17349,7 +17349,7 @@
                 "popularity": 0.0,
                 "posterPath": null,
                 "releaseDate": "1900-01-01",
-                "title": "One Puch-Man",
+                "title": "One Puch Man",
                 "type": "directory",
                 "voteAverage": 0.0
             },
