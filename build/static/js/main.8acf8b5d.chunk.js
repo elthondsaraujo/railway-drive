@@ -1751,59 +1751,22 @@
                             t.menuAnchor, t.ui_config;
                             return Object(y.jsx)("div", {
                                 className: "ThemeMenu",
-                                children: [Object(y.jsx)(g.a, {
-                                    "aria-label": "more",
-                                    "aria-controls": "theme-menu",
-                                    "aria-haspopup": "true",
-                                    onClick: this.handleClick,
-                                    children: Object(y.jsx)(Lt.a, {})
-                                }), Object(y.jsxs)(f.a, {
-                                    id: "theme-menu",
-                                    anchorEl: n,
-                                    anchorOrigin: {
-                                        vertical: "top",
-                                        horizontal: "center"
-                                    },
-                                    transformOrigin: {
-                                        vertical: "top",
-                                        horizontal: "center"
-                                    },
-                                    keepMounted: !0,
-                                    open: Boolean(n),
-                                    onClose: this.handleClose,
-                                    children: [Object(y.jsx)(v.a, {
-                                        onClick: function() {
-                                            return e.handleTheme("light")
-                                        },
-                                        children: "Light"
-                                    }), Object(y.jsx)(v.a, {
-                                        onClick: function() {
-                                            return e.handleTheme("dark")
-                                        },
-                                        children: "Dark"
-                                    }), Object(y.jsx)(v.a, {
-                                        onClick: function() {
-                                            return e.handleTheme("dracula")
-                                        },
-                                        children: "Dracula"
-                                    }), Object(y.jsx)(v.a, {
-                                        onClick: function() {
-                                            return e.handleTheme("nord")
-                                        },
-                                        children: "Nord"
-                                    }), a.custom_theme ? Object(y.jsxs)("div", {
-                                        children: [Object(y.jsx)(O.a, {}), Object(y.jsx)(v.a, {
+                                children: Object(y.jsxs)(Ke.a, {
+                                    children: [Object(y.jsx)(Ke.a.Toggle, {
+                                        id: "dropdown-basic",
+                                        children: Object(y.jsx)(Ve.a, {})
+                                    }), Object(y.jsx)(Ke.a.Menu, {
+                                        children: Object(y.jsx)(Ke.a.Item, {
                                             onClick: function() {
-                                                return e.handleTheme("custom")
+                                                return e.handleTheme("nord")
                                             },
-                                            children: "Custom"
-
-                                        })]
-                                    }) : null]
-                                })]
+                                            children: "Nord"
+                                        })
+                                    })]
+                                })
                             })
                         }
-                    }]), n
+                    }]), a
                 }(r.Component),
                 He = function(e) {
                     Object(j.a)(a, e);
