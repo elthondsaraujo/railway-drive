@@ -1943,7 +1943,7 @@
                                     children: Object(y.jsx)("div", {
                                         className: "fof",
                                         children: Object(y.jsx)("h1", {
-                                            children: "Error 404: Not Found"
+                                            children: "Volta que deu Merda: Not Found"
                                         })
                                     })
                                 })]
