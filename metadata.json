@@ -1,6 +1,6 @@
 [
     {
-        "buildTime": "2023-08-23 23:36:15.862299",
+        "buildTime": "2023-08-24 00:18:06.293546",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -1307,7 +1307,7 @@
                 "releaseDate": "2023-08-09",
                 "title": "Dr\u00e1cula: A \u00daltima Viagem do Dem\u00e9ter",
                 "type": "file",
-                "voteAverage": 7.402
+                "voteAverage": 7.3
             },
             {
                 "adult": false,
@@ -4801,7 +4801,7 @@
                 "releaseDate": "2023-07-24",
                 "title": "Explorando o Desconhecido: A M\u00e1quina do Tempo C\u00f3smica",
                 "type": "file",
-                "voteAverage": 7.838
+                "voteAverage": 7.8
             },
             {
                 "adult": false,
@@ -13957,7 +13957,7 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-23 23:38:32.746306",
+        "buildTime": "2023-08-24 00:19:55.293297",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -14190,7 +14190,7 @@
                 "parents": [
                     "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
                 ],
-                "popularity": 11.602,
+                "popularity": 10.449,
                 "posterPath": "https://image.tmdb.org/t/p/w342/wfgJF5KSqhvfflNHUhBUUrk3L33.jpg",
                 "releaseDate": "2019-06-28",
                 "title": "Aruanas",
@@ -15649,7 +15649,7 @@
                 "releaseDate": "2022-06-16",
                 "title": "O Ver\u00e3o Que Mudou Minha Vida",
                 "type": "directory",
-                "voteAverage": 8.304
+                "voteAverage": 8.303
             },
             {
                 "api": "tmdb",
@@ -15847,7 +15847,7 @@
                 "parents": [
                     "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
                 ],
-                "popularity": 377.982,
+                "popularity": 364.871,
                 "posterPath": "https://image.tmdb.org/t/p/w342/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg",
                 "releaseDate": "2014-08-09",
                 "title": "Outlander",
@@ -16125,7 +16125,7 @@
                 "parents": [
                     "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
                 ],
-                "popularity": 23.367,
+                "popularity": 23.819,
                 "posterPath": "https://image.tmdb.org/t/p/w342/6K3yj4PhxCOhaKe9hOmkR2RANrz.jpg",
                 "releaseDate": "2013-06-24",
                 "title": "Saramandaia",
@@ -16307,7 +16307,7 @@
                 "parents": [
                     "1xFdI0w8HQ0S0Jcp9pl_8Vi6xIQgmsgRe"
                 ],
-                "popularity": 192.201,
+                "popularity": 182.477,
                 "posterPath": "https://image.tmdb.org/t/p/w342/bxuUbcM9GqvmQY1EDm5sMtLdcTv.jpg",
                 "releaseDate": "2022-05-05",
                 "title": "Star Trek: Strange New Worlds",
@@ -17081,7 +17081,7 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-23 23:38:54.392238",
+        "buildTime": "2023-08-24 00:20:22.419515",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -17335,23 +17335,27 @@
             },
             {
                 "api": "tmdb",
-                "apiId": null,
-                "backdropPath": null,
-                "genres": [],
+                "apiId": 63926,
+                "backdropPath": "https://image.tmdb.org/t/p/original/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
+                "genres": [
+                    "Action & Adventure",
+                    "Animation",
+                    "Comedy"
+                ],
                 "id": "16hfG3YKSau7dljth63WKzUj1olTokiWP",
-                "language": null,
+                "language": "ja",
                 "mimeType": "application/vnd.google-apps.folder",
-                "name": "One Puch Man",
-                "overview": null,
+                "name": "One Punch Man",
+                "overview": "Tudo sobre um jovem chamado Saitama parece mediano, sua express\u00e3o sem vida, sua cabe\u00e7a calva e f\u00edsico inexpressivo. No entanto, este homem de apar\u00eancia comum n\u00e3o tem um problema comum... Ele \u00e9 um super-her\u00f3i que est\u00e1 \u00e0 procura de advers\u00e1rios dif\u00edceis! O problema \u00e9 que toda vez que ele encontra um candidato promissor ele o derrota com um soco. Saitama encontrar\u00e1 um vil\u00e3o forte o suficiente para desafi\u00e1-lo? Siga Saitama atrav\u00e9s de suas aventuras hilariantes enquanto ele procura por novos bandidos para desafiar!",
                 "parents": [
                     "1kJyOaFEZiX8JVqkn2gSsACyQonmZXBYH"
                 ],
-                "popularity": 0.0,
-                "posterPath": null,
-                "releaseDate": "1900-01-01",
-                "title": "One Puch Man",
+                "popularity": 89.19,
+                "posterPath": "https://image.tmdb.org/t/p/w342/bS6GeCRInMRl6oQN6czCqPFdcHN.jpg",
+                "releaseDate": "2015-10-05",
+                "title": "One-Punch Man",
                 "type": "directory",
-                "voteAverage": 0.0
+                "voteAverage": 8.383
             },
             {
                 "api": "tmdb",
