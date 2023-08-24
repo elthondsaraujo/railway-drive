@@ -188,7 +188,7 @@
                                 i = t.ui_config;
                             a && n || this.props.history.push("/logout");
                             var o = "".concat(n, "/api/v1/metadata"),
-                                s = "?a=".concat(a, "&r=0:").concat(i.range || "30", "&s=random&rmdup=true");
+                                s = "?a=".concat(a, "&r=0:").concat(i.range || "16", "&s=random&rmdup=true");
                             N.a.get(o + s).then((function(t) {
                                 for (var a = t.data.content, n = r.length - 1; n >= 0; n--) r[n].categoryInfo.pinned && a.unshift(r[n]);
                                 e.setState({
