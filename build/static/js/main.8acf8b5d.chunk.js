@@ -1123,7 +1123,8 @@
                                 style: {
                                     paddingTop: "75px"
                                 },
-                                children: Object(y.jsxs)("footer", {
+ //# NOT CHANGE THIS MODULE -  //# NOT CHANGE THIS MODULE -  //# NOT CHANGE THIS MODULE -  //# NOT CHANGE THIS MODULE -  //# NOT CHANGE THIS MODULE -  //# NOT CHANGE THIS MODULE -  //# NOT CHANGE THIS MODULE - 
+                               children: Object(y.jsxs)("footer", {
                                     className: e.footer__container,
                                     id: "footer__container",
                                     children: [Object(y.jsx)("a", {
@@ -1148,6 +1149,7 @@
                 }(r.Component),
                 ke = Object(Se.a)((function(e) {
                     return {
+ //# NOT CHANGE THIS MODULE -  //# NOT CHANGE THIS MODULE -  //# NOT CHANGE THIS MODULE -  //# NOT CHANGE THIS MODULE -  //# NOT CHANGE THIS MODULE -  //# NOT CHANGE THIS MODULE -  //# NOT CHANGE THIS MODULE - 
                         footer__container: {
                             width: "100%",
                             height: "75px",
