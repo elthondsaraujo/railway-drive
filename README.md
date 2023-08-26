@@ -4,9 +4,6 @@ This is a project that allows you to upload your files to an empty Google Drive 
 How to deploy
 You can deploy this project using one of the following services:
 
-Heroku: Click on the button below and follow the instructions on the screen to create an account on Heroku and deploy the project.
-<p align=“left”> <a href=“https://heroku.com/deploy?template=https://github.com/elthondsaraujo/railway-drive”> <img src=“https://img.shields.io/badge/Deploy%20To%20Heroku-bluet?style=for-the-badge&logo=heroku” width=“200” /> </a> </p>
-
 Railway: Click on the button below and follow the instructions on the screen to create an account on Railway and deploy the project.
 !Deploy on Railway
 
