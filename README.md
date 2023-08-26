@@ -43,5 +43,6 @@ Here is a possible way to rewrite the text in Markdown for the README.md on GitH
 ## Thanks
 
 - Thank you for using this project and I hope it is useful for you. Please, follow my son's YouTube channel - [Davi Gamer]
+- - https://www.youtube.com/channel/UCIGDblP2lOIHstz90SMe-qw
 - Regards from Brazil
 - I removed all references to LibDRiv* to try to avoid being banned from Heroku. Does it work? I don't know !!!
