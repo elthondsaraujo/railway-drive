@@ -40,7 +40,7 @@ Here is a possible way to rewrite the text in Markdown for the README.md on GitH
 ## How to contribute
 
 - This project is based on the work of Elias - eliasbenb and Dester Alken. You can check out their original projects in the following links:
-  - [eliasbenb/libDrive]
+  - [[eliasbenb/libDrive](https://github.com/libDrive)]
   - [Desterly/libDrive]
 - If you want to contribute to this project, you can fork this repository and send your changes through a pull request. You can also report any issues or suggestions through the "Issues" tab of this repository.
 
@@ -64,7 +64,7 @@ Este é um projeto que permite que você crie um aplicativo web como o Plex usan
 
 ### Você pode implantar este projeto usando um dos seguintes serviços:
 
-## Implantar no Railway
+## [Implantar no Railway](https://railway.app/)
 
 - Crie uma conta no Railway
 - Faça login com sua conta do GitHub no Railway
@@ -73,7 +73,7 @@ Este é um projeto que permite que você crie um aplicativo web como o Plex usan
 - Anote o URL gerado e espere ele terminar
 - Pronto.
 
-## Implantar no Render
+## [Implantar no Render](https://render.com/)
 
 - Crie uma conta no Render
 - Faça login com sua conta do GitHub no Render
@@ -91,13 +91,13 @@ Este é um projeto que permite que você crie um aplicativo web como o Plex usan
 ## Como contribuir
 
 - Este projeto é baseado no trabalho de Elias - eliasbenb e Dester Alken. Você pode conferir os projetos originais deles nos seguintes links:
-  - [eliasbenb/libDrive]
+  - [[eliasbenb/libDrive](https://github.com/libDrive)]
   - [Desterly/libDrive]
 - Se você quiser contribuir para este projeto, você pode fazer um fork deste repositório e enviar as suas alterações através de um pull request. Você também pode reportar quaisquer problemas ou sugestões através da aba "Issues" deste repositório.
 
 ## Agradecimentos
 
-- Obrigado por usar este projeto e espero que ele seja útil para você. Por favor, siga o canal do YouTube do meu filho - [Davi Gamer]
+- Obrigado por usar este projeto e espero que ele seja útil para você. Por favor, siga o canal do YouTube do meu filho - [[Jacaré Gammer](https://www.youtube.com/channel/UCIGDblP2lOIHstz90SMe-qw)]
   - https://www.youtube.com/channel/UCIGDblP2lOIHstz90SMe-qw
 - Saudações do Brasil
 - Eu removi todas as referências ao LibDRiv* para tentar evitar ser banido do Heroku. Funciona? Eu não sei !!!
