@@ -1,5 +1,4 @@
     name: railway-drive
-    name: railway-drive
     env: python
     startCommand: python3 -m gunicorn main:app
     buildCommand: pip install -r requirements.txt
