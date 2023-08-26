@@ -1,3 +1,7 @@
+services:
+  # A Docker web service
+  - type: web
+    name: webdis
     name: railway-drive
     env: python
     startCommand: python3 -m gunicorn main:app
