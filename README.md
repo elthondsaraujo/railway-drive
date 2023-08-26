@@ -10,7 +10,7 @@ This is a project that allows you to create a web app like Plex using your Googl
 
 ### You can deploy this project using one of the following services:
 
-## Deploy on Railway
+## [Deploy on Railway](https://railway.app/)
 
 - Create an account on Railway
 - Log in with your GitHub account on Railway
@@ -22,7 +22,7 @@ This is a project that allows you to create a web app like Plex using your Googl
 
 Here is a possible way to rewrite the text in Markdown for the README.md on GitHub:
 
-## Deploy on Render
+## [Deploy on Render](https://render.com/)
 
 - Create an account on Render
 - Log in with your GitHub account on Render
@@ -46,8 +46,8 @@ Here is a possible way to rewrite the text in Markdown for the README.md on GitH
 
 ## Thanks
 
-- Thank you for using this project and I hope it is useful for you. Please, follow my son's YouTube channel - [Davi Gamer]
-- - https://www.youtube.com/channel/UCIGDblP2lOIHstz90SMe-qw
+- Thank you for using this project and I hope it is useful for you. Please, follow my son's YouTube channel - [[Jacará Brabo](https://www.youtube.com/channel/UCIGDblP2lOIHstz90SMe-qw)]
+
 - Regards from Brazil
 - I removed all references to LibDRiv* to try to avoid being banned from Heroku. Does it work? I don't know !!!
 
