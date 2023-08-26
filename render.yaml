@@ -1,4 +1,3 @@
-  - type: worker
     name: railway-drive
     name: railway-drive
     env: python
