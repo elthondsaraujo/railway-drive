@@ -1,12 +1,3 @@
-Hello, this is Bing. I can help you write a good README.md for your project on GitHub. A README.md is a file that contains a detailed description of your project, how to install it, use it and contribute to it. A good README.md can attract the attention of other developers and users to your project, as well as make it easier to understand and maintain.
-
-I searched the web for some resources that can guide you on how to write a good README.md for your project on GitHub. Here are some of them:
-
-[How to write a good README for your GitHub project - freeCodeCamp.org]: This article explains what a README is, why it is important, and what are the essential elements that it should contain. It also provides some examples of good READMEs and some formatting tips using Markdown.
-[Quickstart for writing on GitHub - GitHub Docs]: This guide shows you how to use some advanced formatting features on GitHub, such as adding images, tables, collapsible sections, quotes and comments to your README. It also teaches you how to use the HTML <picture> element to add an image that changes according to the visitor’s preferred color mode (light or dark).
-[How to write a perfect README for your project on GitHub]: This post offers some suggestions on how to structure your README, what information to include and how to make it attractive and useful. It also recommends some tools and extensions that can help you visualize and edit your README.
-Based on the text that you sent me, I created a possible description to include in your README.md on GitHub. You can use this description as a starting point and modify it according to your needs and preferences. Here is the description:
-
 Railway Drive
 This is a project that allows you to upload your files to an empty Google Drive folder and access them through a simple and elegant web interface. You can use this project to store and share your files in the cloud quickly and easily.
 
