@@ -1,10 +1,14 @@
-Railway Drive
-This is a project that allows you to upload your files to an empty Google Drive folder and access them through a simple and elegant web interface. You can use this project to store and share your files in the cloud quickly and easily.
+# Railway Drive and Render - Free Services
 
-How to deploy
-You can deploy this project using one of the following services:
+This is a project that allows you to create a web app like Plex using your Google Drive folder. You can use this project to stream and enjoy your media files in the cloud with a beautiful and responsive interface. You can also upload new files to your Google Drive folder using the web app.
 
-Here is a possible way to format the text in Markdown for the README.md on GitHub:
+## How to deploy?
+
+- First, fork this repository
+- Then, choose one of the following services to deploy the project:
+
+
+### You can deploy this project using one of the following services:
 
 ## Deploy on Railway
 
@@ -46,3 +50,54 @@ Here is a possible way to rewrite the text in Markdown for the README.md on GitH
 - - https://www.youtube.com/channel/UCIGDblP2lOIHstz90SMe-qw
 - Regards from Brazil
 - I removed all references to LibDRiv* to try to avoid being banned from Heroku. Does it work? I don't know !!!
+
+  # - Versão em Português
+
+## Railway Drive e Render - Serviços Gratuitos
+
+Este é um projeto que permite que você crie um aplicativo web como o Plex usando sua pasta do Google Drive. Você pode usar este projeto para transmitir e desfrutar dos seus arquivos de mídia na nuvem com uma interface bonita e responsiva. Você também pode fazer upload de novos arquivos para a sua pasta do Google Drive usando o aplicativo web.
+
+## Como implantar?
+
+- Primeiro, faça um fork deste repositório
+- Depois, escolha um dos seguintes serviços para implantar o projeto:
+
+### Você pode implantar este projeto usando um dos seguintes serviços:
+
+## Implantar no Railway
+
+- Crie uma conta no Railway
+- Faça login com sua conta do GitHub no Railway
+- Escolha o projeto que você fez fork anteriormente
+- Dê um nome ao projeto e implante-o no Railway
+- Anote o URL gerado e espere ele terminar
+- Pronto.
+
+## Implantar no Render
+
+- Crie uma conta no Render
+- Faça login com sua conta do GitHub no Render
+- Escolha o projeto que você fez fork anteriormente
+- Dê um nome ao projeto e implante-o no Render
+- Anote o URL gerado e espere ele terminar
+- No campo de comando de início, digite o seguinte comando: `python3 -m gunicorn main:app`
+- Pronto.
+
+## Como usar
+
+- Depois de implantar o projeto, você poderá acessar a interface web através do link fornecido pelo serviço que você escolheu. Você precisará fazer login com o usuário e a senha que você definiu na configuração. Por padrão, o usuário é "demo" e a senha é "demo".
+- Na interface web, você poderá ver os seus arquivos organizados em categorias, como filmes, séries, músicas, etc. Você também poderá pesquisar, filtrar, ordenar e reproduzir os seus arquivos. Você poderá fazer upload de novos arquivos para a sua pasta do Google Drive usando o botão "Upload" no canto superior direito.
+
+## Como contribuir
+
+- Este projeto é baseado no trabalho de Elias - eliasbenb e Dester Alken. Você pode conferir os projetos originais deles nos seguintes links:
+  - [eliasbenb/libDrive]
+  - [Desterly/libDrive]
+- Se você quiser contribuir para este projeto, você pode fazer um fork deste repositório e enviar as suas alterações através de um pull request. Você também pode reportar quaisquer problemas ou sugestões através da aba "Issues" deste repositório.
+
+## Agradecimentos
+
+- Obrigado por usar este projeto e espero que ele seja útil para você. Por favor, siga o canal do YouTube do meu filho - [Davi Gamer]
+  - https://www.youtube.com/channel/UCIGDblP2lOIHstz90SMe-qw
+- Saudações do Brasil
+- Eu removi todas as referências ao LibDRiv* para tentar evitar ser banido do Heroku. Funciona? Eu não sei !!!
