@@ -1,5 +1,5 @@
 {
-    "access_token": "ya29.a0AfB_byBjZeGb-_sjm2obFefO9i7p3lzkB01p3av3FZXsJju7UWeKBl9iRF8IPzVac9P229YrxpON5oMlp5Z9IYiyPN24LbBykQ4Q4ikJK-gMqxjKphoGKl27Drx3bMLt34c2NmG6Yo31aam1_D7Du-msa04BNfirr11qDgaCgYKAeESARMSFQHsvYlsx2sMaVyWfQACdtQlUsM2Hg0173",
+    "access_token": "ya29.c.b0Aaekm1IpWhWo2kC_SIo_UQg6shV00SkrV_Vv8OwOuHBftGxyguHQ2JBt8AqCiSFdWWKiCQ9LE64P9nJXTXoyv_ozZTBkO5lY4jSYx5O3Z0IVeLyHO9YAUqhDpcOH2dDPMfbReY5qHm04q2fD5rlJtZ2pV0Gtke8ZA88uUeipRzohYIITj3Q9HS8rO8FMpL--y5D2ngiNMzKkyT-8rR5VxqtnsAHr8_rjq4jLPsmlNMGbX0ROWPFr_iiVry3gOTP6ERyX5Qgo4K0iyl-YS2Eu2M7PL_BMKZyLC_mKYa8I-m3aPtbaasbjMWOgCxUicVCJnE1AISItT337C7wOZZVfqa9h5X8396iIQFWc4Mb4_FriI4JhowdOxsBnx8Xqei9gag7MulF-2JdMrvVeyZBt95s6ge7_0qYt4IXXbh_zBsdS2Ml5tyI2Rykaw1VbYxR_xhop7os9Utlewa8FeR70iIrc-b5kxx5ir3iYYvUYZl2f3vmnjVgise44lcJVRgs0BFQw7oYpwBQSll128hiqX4O6Fwbc4hnl6Qmw0odwWmUIpWS7oeX3vW0vkldnj05aaj2ttcX1nSRXWgOUojBeBotUpp1Bq2qSm5MqBk7e23crOf0nWfb18fI5ej8Mhku7hbid1hy_SXkBX1eulrtdi9neSBa-W7OuWMdkU6w34BUMlU0RWJsZl164uwBf4J92wUdnx30YbueZS5RBhQt849q25_Y7ziujBiZWJqBUo5yUXF_0UQdhyuyfJSooc_Bd4lO9Bwi9Oi4pdwcjO30t1VegBVOW9rSllZQB8XqJi8Ixx258won2Q19YMkiYsY5Sin63S3fvY9IpQwWqqtlfw0q39YxrZmjVo946foge8p2fggdeWIdRmw31oM3rj4lvdyrjMVlx39MY-M8u6xgZkYQduaS1F4lrlo5k8xMR9WZht_ts2vV5OBXXxQefv_OxSqm3bR9q2gym0rbyV3ZSB96aeVJ6cU4qXVlIZ1hl-rblv9-bcOq-ctd",
     "account_list": [
         {
             "auth": "0jler2t7iklhq7m9i9y84rmw6b3g0u6cwpvex47sylerauvmxz",
@@ -41,12 +41,12 @@
     "client_id": "229235645044-mb5hp4l146vm39iajmcf35epcb6throi.apps.googleusercontent.com",
     "client_secret": "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",
     "cloudflare": "",
-    "fetch_assets": "true",
+    "fetch_assets": true,
     "prefer_mkv": true,
-    "prefer_mp4": "true",
+    "prefer_mp4": true,
     "refresh_token": "1//0h18xnLDO8bi2CgYIARAAGBESNwF-L9Irct6a98JR_npZspbTFLEtSdZjonBWQwqMONGpmRtJKEeWJ7KGnT6d75SzBlqwYe-HvBk",
-    "remove_duplicates": "true",
-    "remove_no_poster": false,
+    "remove_duplicates": true,
+    "remove_no_poster": true,
     "secret_key": "administrator",
     "service_accounts": [
         {
@@ -89,8 +89,8 @@
     "signup": true,
     "subtitles": false,
     "tmdb_api_key": "0fffaf58a1c48ee4c1431a16aacbadae",
-    "token_expiry": "2023-08-26 20:01:54.427411",
-    "transcoded": "true",
+    "token_expiry": "2023-08-27 05:37:01.406668",
+    "transcoded": true,
     "ui_config": {
         "arcio": "dev",
         "custom_button": {

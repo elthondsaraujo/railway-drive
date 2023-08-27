@@ -1,6 +1,6 @@
 [
     {
-        "buildTime": "2023-08-27 04:03:40.967790",
+        "buildTime": "2023-08-27 04:31:17.768491",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -33,7 +33,7 @@
                 "releaseDate": "2022-10-19",
                 "title": "Ad\u00e3o Negro",
                 "type": "file",
-                "voteAverage": 7.0
+                "voteAverage": 7.024
             },
             {
                 "adult": false,
@@ -179,12 +179,12 @@
                 "parents": [
                     "1iuOUI6blHzNRJ7Xgn1-OV8uRpoU_PxJs"
                 ],
-                "popularity": 105.643,
+                "popularity": 114.87,
                 "posterPath": "https://image.tmdb.org/t/p/w342/wTS3dS2DJiMFFgqKDz5fxMTri.jpg",
                 "releaseDate": "2021-07-28",
                 "title": "O Esquadr\u00e3o Suicida",
                 "type": "file",
-                "voteAverage": 7.561
+                "voteAverage": 7.56
             },
             {
                 "adult": false,
@@ -1163,7 +1163,7 @@
                 "parents": [
                     "1ROdSnhsHQPf01XojpTuulOQ_3J4Sbysm"
                 ],
-                "popularity": 27.453,
+                "popularity": 24.651,
                 "posterPath": "https://image.tmdb.org/t/p/w342/a5XkAX8k4UO3I1YIx1nW32F3EBk.jpg",
                 "releaseDate": "2022-02-11",
                 "title": "Ainda Estou Aqui",
@@ -2024,12 +2024,12 @@
                 "parents": [
                     "1ROdSnhsHQPf01XojpTuulOQ_3J4Sbysm"
                 ],
-                "popularity": 60.61,
+                "popularity": 71.005,
                 "posterPath": "https://image.tmdb.org/t/p/w342/uLYdX64xJVZEFRQJZQU4A2ueMyB.jpg",
                 "releaseDate": "2023-06-14",
                 "title": "Clonaram Tyrone!",
                 "type": "file",
-                "voteAverage": 6.725
+                "voteAverage": 6.734
             },
             {
                 "adult": false,
@@ -2072,7 +2072,7 @@
                 "parents": [
                     "1ROdSnhsHQPf01XojpTuulOQ_3J4Sbysm"
                 ],
-                "popularity": 11.489,
+                "popularity": 10.253,
                 "posterPath": "https://image.tmdb.org/t/p/w342/hhFS8NlOe7yQ3sxFVEHKftCUHSq.jpg",
                 "releaseDate": "2021-12-10",
                 "title": "Com Amor, An\u00f4nima",
@@ -2119,7 +2119,7 @@
                 "parents": [
                     "1ROdSnhsHQPf01XojpTuulOQ_3J4Sbysm"
                 ],
-                "popularity": 13.389,
+                "popularity": 15.784,
                 "posterPath": "https://image.tmdb.org/t/p/w342/bGIy308alpX12xdBVsREgsHawQC.jpg",
                 "releaseDate": "2021-09-22",
                 "title": "Confiss\u00f5es de uma Garota Exclu\u00edda",
@@ -2238,7 +2238,7 @@
                 "parents": [
                     "1ROdSnhsHQPf01XojpTuulOQ_3J4Sbysm"
                 ],
-                "popularity": 22.7,
+                "popularity": 21.209,
                 "posterPath": "https://image.tmdb.org/t/p/w342/xfxdIBdNHhPhIVCWWDVfzsKG03Y.jpg",
                 "releaseDate": "2022-09-08",
                 "title": "Destinos Tra\u00e7ados",
@@ -2358,7 +2358,7 @@
                 "parents": [
                     "1ROdSnhsHQPf01XojpTuulOQ_3J4Sbysm"
                 ],
-                "popularity": 132.392,
+                "popularity": 154.982,
                 "posterPath": "https://image.tmdb.org/t/p/w342/itUFRyAMZNqSKL5zsPPVLdggGek.jpg",
                 "releaseDate": "2023-03-23",
                 "title": "Dungeons & Dragons: Honra Entre Rebeldes",
@@ -2661,7 +2661,7 @@
                 "parents": [
                     "1C-mfY5IVOoUDJTW21jzBWDwEv3pvObt0"
                 ],
-                "popularity": 57.184,
+                "popularity": 53.386,
                 "posterPath": "https://image.tmdb.org/t/p/w342/sejOOSFyqNd2KHWo9s3FiP7JCTv.jpg",
                 "releaseDate": "2023-07-23",
                 "title": "Felicidade para Principiantes",
@@ -2811,7 +2811,7 @@
                 "parents": [
                     "1ROdSnhsHQPf01XojpTuulOQ_3J4Sbysm"
                 ],
-                "popularity": 46.522,
+                "popularity": 49.734,
                 "posterPath": "https://image.tmdb.org/t/p/w342/1WHeh743USzQoCrzPQYUKEDsTjZ.jpg",
                 "releaseDate": "2022-11-09",
                 "title": "Futebol em Apuros",
@@ -2836,7 +2836,7 @@
                 "parents": [
                     "1ROdSnhsHQPf01XojpTuulOQ_3J4Sbysm"
                 ],
-                "popularity": 21.581,
+                "popularity": 22.489,
                 "posterPath": "https://image.tmdb.org/t/p/w342/AmjY2zibiM35OM0UJBYMJQo98Bz.jpg",
                 "releaseDate": "2008-08-15",
                 "title": "Garota Mimada",
@@ -3255,7 +3255,7 @@
                 "parents": [
                     "1ROdSnhsHQPf01XojpTuulOQ_3J4Sbysm"
                 ],
-                "popularity": 8.956,
+                "popularity": 9.093,
                 "posterPath": "https://image.tmdb.org/t/p/w342/myMnHnG6kxYaQYknnW76VCHBpYT.jpg",
                 "releaseDate": "1977-08-26",
                 "title": "House",
@@ -3444,12 +3444,12 @@
                 "parents": [
                     "11-H2dmio3-Ez4UqzYgSFCeP5bOPcfI6g"
                 ],
-                "popularity": 52.385,
+                "popularity": 50.26,
                 "posterPath": "https://image.tmdb.org/t/p/w342/kkQWU1hjgkqbWqFo6Vfu2V4Qm9f.jpg",
                 "releaseDate": "2005-10-28",
                 "title": "Jogos Mortais II",
                 "type": "file",
-                "voteAverage": 6.56
+                "voteAverage": 6.559
             },
             {
                 "adult": false,
@@ -3519,7 +3519,7 @@
                 "parents": [
                     "11-H2dmio3-Ez4UqzYgSFCeP5bOPcfI6g"
                 ],
-                "popularity": 49.62,
+                "popularity": 55.945,
                 "posterPath": "https://image.tmdb.org/t/p/w342/nqaB9vOAhRz68slEbyoCB5MPrYV.jpg",
                 "releaseDate": "2008-10-23",
                 "title": "Jogos Mortais V",
@@ -3543,7 +3543,7 @@
                 "parents": [
                     "11-H2dmio3-Ez4UqzYgSFCeP5bOPcfI6g"
                 ],
-                "popularity": 42.155,
+                "popularity": 49.275,
                 "posterPath": "https://image.tmdb.org/t/p/w342/3jA3hsiOJvCo5LvnWgYtjTuVAWn.jpg",
                 "releaseDate": "2009-10-16",
                 "title": "Jogos Mortais VI",
@@ -3717,7 +3717,7 @@
                 "parents": [
                     "1WXxa1ZcKLFWr4DHr-DKSHhYIEvUiGYkg"
                 ],
-                "popularity": 71.732,
+                "popularity": 71.321,
                 "posterPath": "https://image.tmdb.org/t/p/w342/bE6XutmB6tcvzTHBx4JGJLlzouM.jpg",
                 "releaseDate": "2019-05-15",
                 "title": "John Wick 3: Parabellum",
@@ -3742,7 +3742,7 @@
                 "parents": [
                     "1VBRK2irpvG2Pj0VekXVqOgc_n5jt9eEh"
                 ],
-                "popularity": 71.732,
+                "popularity": 71.321,
                 "posterPath": "https://image.tmdb.org/t/p/w342/bE6XutmB6tcvzTHBx4JGJLlzouM.jpg",
                 "releaseDate": "2019-05-15",
                 "title": "John Wick 3: Parabellum",
@@ -3916,7 +3916,7 @@
                 "parents": [
                     "1ROdSnhsHQPf01XojpTuulOQ_3J4Sbysm"
                 ],
-                "popularity": 28.979,
+                "popularity": 22.652,
                 "posterPath": "https://image.tmdb.org/t/p/w342/rF0ItNyvhMIavqcuVtHFPhbW6Yf.jpg",
                 "releaseDate": "2022-09-14",
                 "title": "Justiceiras",
@@ -4078,7 +4078,7 @@
                 "parents": [
                     "1-2m-x83B_UWVOvei4ch_lDnzcbbF5uz8"
                 ],
-                "popularity": 32.941,
+                "popularity": 31.191,
                 "posterPath": "https://image.tmdb.org/t/p/w342/6LNgfqTCR2FKFYT02oKjBj1NeKt.jpg",
                 "releaseDate": "1979-04-12",
                 "title": "Mad Max",
@@ -4865,7 +4865,7 @@
                 "parents": [
                     "1KOa3yvALa4Qjqhqi4qGnUVAXQQUPct68"
                 ],
-                "popularity": 149.107,
+                "popularity": 170.42,
                 "posterPath": "https://image.tmdb.org/t/p/w342/h2tS3f9s386fitoHjDMvQGm2w8q.jpg",
                 "releaseDate": "2023-02-22",
                 "title": "O Urso do P\u00f3 Branco",
@@ -4890,7 +4890,7 @@
                 "parents": [
                     "1XvMRPwcBydCA56UJdqGglxfw2_KpUo5E"
                 ],
-                "popularity": 149.107,
+                "popularity": 170.42,
                 "posterPath": "https://image.tmdb.org/t/p/w342/h2tS3f9s386fitoHjDMvQGm2w8q.jpg",
                 "releaseDate": "2023-02-22",
                 "title": "O Urso do P\u00f3 Branco",
@@ -5045,7 +5045,7 @@
                 "releaseDate": "2023-07-06",
                 "title": "Projeto Extra\u00e7\u00e3o",
                 "type": "file",
-                "voteAverage": 7.102
+                "voteAverage": 7.094
             },
             {
                 "adult": false,
@@ -5105,7 +5105,7 @@
                 "parents": [
                     "1ROdSnhsHQPf01XojpTuulOQ_3J4Sbysm"
                 ],
-                "popularity": 2.951,
+                "popularity": 3.035,
                 "posterPath": "https://image.tmdb.org/t/p/w342/l2vm6wdXjkxxTQSWOoquVUEz4Qo.jpg",
                 "releaseDate": "2022-01-14",
                 "title": "P\u00e2nico: A Hist\u00f3ria por Tr\u00e1s do Filme",
@@ -5365,12 +5365,12 @@
                 "parents": [
                     "19ic4l118PcshSbDzVgiIjBff0wCaFQmc"
                 ],
-                "popularity": 36.162,
+                "popularity": 42.275,
                 "posterPath": "https://image.tmdb.org/t/p/w342/sEvmaOS4WndyaJeO5TdVupYZrDi.jpg",
                 "releaseDate": "2003-08-15",
                 "title": "Freddy X Jason",
                 "type": "file",
-                "voteAverage": 6.039
+                "voteAverage": 6.04
             },
             {
                 "adult": false,
@@ -5483,7 +5483,7 @@
                 "parents": [
                     "19ic4l118PcshSbDzVgiIjBff0wCaFQmc"
                 ],
-                "popularity": 34.475,
+                "popularity": 23.321,
                 "posterPath": "https://image.tmdb.org/t/p/w342/iDTotODy54CHoiBPZaywCxWszH8.jpg",
                 "releaseDate": "1985-03-22",
                 "title": "Sexta-Feira 13 - Parte 5: Um Novo Come\u00e7o",
@@ -5976,7 +5976,7 @@
                 "parents": [
                     "1ROdSnhsHQPf01XojpTuulOQ_3J4Sbysm"
                 ],
-                "popularity": 2.287,
+                "popularity": 3.202,
                 "posterPath": "https://image.tmdb.org/t/p/w342/sVQJSdOBtYF7kkxSjMdtwwfvl6c.jpg",
                 "releaseDate": "2001-12-14",
                 "title": "Xuxa e os Duendes",
@@ -6022,7 +6022,7 @@
                 "parents": [
                     "1ROdSnhsHQPf01XojpTuulOQ_3J4Sbysm"
                 ],
-                "popularity": 28.408,
+                "popularity": 31.013,
                 "posterPath": "https://image.tmdb.org/t/p/w342/ufvBPlygnMSjjbv62ufRR6EKwdZ.jpg",
                 "releaseDate": "2005-11-06",
                 "title": "Zathura: Uma Aventura Espacial",
@@ -6116,7 +6116,7 @@
                 "parents": [
                     "15w3Iwf10v7t9bqc1yLnN0dPH_diyvAw_"
                 ],
-                "popularity": 1.96,
+                "popularity": 2.744,
                 "posterPath": "https://image.tmdb.org/t/p/w342/rjV0tmE0IGmuAXHK8jRbVUoRBkw.jpg",
                 "releaseDate": "2023-01-26",
                 "title": "A \u00daltima Festa",
@@ -6164,7 +6164,7 @@
                 "parents": [
                     "15w3Iwf10v7t9bqc1yLnN0dPH_diyvAw_"
                 ],
-                "popularity": 24.106,
+                "popularity": 27.179,
                 "posterPath": "https://image.tmdb.org/t/p/w342/jv8PbopI3r3p0HrQJbLYcOzFHle.jpg",
                 "releaseDate": "2022-10-27",
                 "title": "Depois do Universo",
@@ -6237,7 +6237,7 @@
                 "parents": [
                     "15w3Iwf10v7t9bqc1yLnN0dPH_diyvAw_"
                 ],
-                "popularity": 0.755,
+                "popularity": 1.4,
                 "posterPath": "https://image.tmdb.org/t/p/w342/4UMDeMLfX1Ycl0S1m4VZz0nrHsE.jpg",
                 "releaseDate": "2023-06-24",
                 "title": "Murilo Couto: Leso",
@@ -6286,7 +6286,7 @@
                 "parents": [
                     "15w3Iwf10v7t9bqc1yLnN0dPH_diyvAw_"
                 ],
-                "popularity": 34.029,
+                "popularity": 31.13,
                 "posterPath": "https://image.tmdb.org/t/p/w342/xdAVVJT8TtC3S1VVHzh5eIX0CzQ.jpg",
                 "releaseDate": "2023-06-02",
                 "title": "Ricos de Amor 2",
@@ -6310,7 +6310,7 @@
                 "parents": [
                     "15w3Iwf10v7t9bqc1yLnN0dPH_diyvAw_"
                 ],
-                "popularity": 11.557,
+                "popularity": 10.749,
                 "posterPath": "https://image.tmdb.org/t/p/w342/u8kRdW12mhOakR9WqVnarQbqGNH.jpg",
                 "releaseDate": "2020-04-30",
                 "title": "Ricos de Amor",
@@ -6544,12 +6544,12 @@
                 "parents": [
                     "1tCZdl5i-Dc8O_nysi7zUu1JYr1o4MUbG"
                 ],
-                "popularity": 506.014,
+                "popularity": 559.37,
                 "posterPath": "https://image.tmdb.org/t/p/w342/eZEKKCNW0vI7B7AZNdCAeq2mMAw.jpg",
                 "releaseDate": "2023-07-05",
                 "title": "Miraculous: As Aventuras de Ladybug - O Filme",
                 "type": "file",
-                "voteAverage": 7.877
+                "voteAverage": 7.876
             },
             {
                 "adult": false,
@@ -6639,7 +6639,7 @@
                 "parents": [
                     "1iA74uolZY8vkTQDHQoENJRonoxGQqUAG"
                 ],
-                "popularity": 66.99,
+                "popularity": 68.315,
                 "posterPath": "https://image.tmdb.org/t/p/w342/d88x4Jnyhr4xErOYeJCspcxI34h.jpg",
                 "releaseDate": "2020-08-14",
                 "title": "Bob Esponja: O Incr\u00edvel Resgate",
@@ -6869,7 +6869,7 @@
                 "parents": [
                     "1iA74uolZY8vkTQDHQoENJRonoxGQqUAG"
                 ],
-                "popularity": 65.289,
+                "popularity": 67.059,
                 "posterPath": "https://image.tmdb.org/t/p/w342/x3IkO2sW4rSSVluFDz8isr6YDm8.jpg",
                 "releaseDate": "2022-11-09",
                 "title": "Pin\u00f3quio por Guillermo Del Toro",
@@ -6895,7 +6895,7 @@
                 "parents": [
                     "1iA74uolZY8vkTQDHQoENJRonoxGQqUAG"
                 ],
-                "popularity": 28.981,
+                "popularity": 30.627,
                 "posterPath": "https://image.tmdb.org/t/p/w342/9TtAmtq6iJfzh6qG4euG6eoUQDm.jpg",
                 "releaseDate": "2021-12-03",
                 "title": "Pr\u00f3xima Parada: Lar Doce Lar",
@@ -7290,7 +7290,7 @@
                 "parents": [
                     "1Id0HcxoIcQuMueKsnJ5L-4aERknpiYPG"
                 ],
-                "popularity": 13.267,
+                "popularity": 10.491,
                 "posterPath": "https://image.tmdb.org/t/p/w342/4iJG3uN4DvtX9vZ5kE5XUdqfB6b.jpg",
                 "releaseDate": "2003-04-10",
                 "title": "Fantasmas do Abismo",
@@ -8238,7 +8238,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 1.96,
+                "popularity": 2.744,
                 "posterPath": "https://image.tmdb.org/t/p/w342/rjV0tmE0IGmuAXHK8jRbVUoRBkw.jpg",
                 "releaseDate": "2023-01-26",
                 "title": "A \u00daltima Festa",
@@ -8452,7 +8452,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 27.453,
+                "popularity": 24.651,
                 "posterPath": "https://image.tmdb.org/t/p/w342/a5XkAX8k4UO3I1YIx1nW32F3EBk.jpg",
                 "releaseDate": "2022-02-11",
                 "title": "Ainda Estou Aqui",
@@ -8476,7 +8476,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 44.736,
+                "popularity": 62.63,
                 "posterPath": "https://image.tmdb.org/t/p/w342/8OGQCOp6BxwvekhZBQCzVd77Y6l.jpg",
                 "releaseDate": "2023-04-05",
                 "title": "Air: A Hist\u00f3ria Por Tr\u00e1s do Logo",
@@ -10367,12 +10367,12 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 60.61,
+                "popularity": 71.005,
                 "posterPath": "https://image.tmdb.org/t/p/w342/uLYdX64xJVZEFRQJZQU4A2ueMyB.jpg",
                 "releaseDate": "2023-06-14",
                 "title": "Clonaram Tyrone!",
                 "type": "file",
-                "voteAverage": 6.725
+                "voteAverage": 6.734
             },
             {
                 "adult": false,
@@ -10415,7 +10415,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 11.489,
+                "popularity": 10.253,
                 "posterPath": "https://image.tmdb.org/t/p/w342/hhFS8NlOe7yQ3sxFVEHKftCUHSq.jpg",
                 "releaseDate": "2021-12-10",
                 "title": "Com Amor, An\u00f4nima",
@@ -10487,7 +10487,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 13.389,
+                "popularity": 15.784,
                 "posterPath": "https://image.tmdb.org/t/p/w342/bGIy308alpX12xdBVsREgsHawQC.jpg",
                 "releaseDate": "2021-09-22",
                 "title": "Confiss\u00f5es de uma Garota Exclu\u00edda",
@@ -10958,7 +10958,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 132.392,
+                "popularity": 154.982,
                 "posterPath": "https://image.tmdb.org/t/p/w342/itUFRyAMZNqSKL5zsPPVLdggGek.jpg",
                 "releaseDate": "2023-03-23",
                 "title": "Dungeons & Dragons: Honra Entre Rebeldes",
@@ -11208,12 +11208,12 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 105.643,
+                "popularity": 114.87,
                 "posterPath": "https://image.tmdb.org/t/p/w342/wTS3dS2DJiMFFgqKDz5fxMTri.jpg",
                 "releaseDate": "2021-07-28",
                 "title": "O Esquadr\u00e3o Suicida",
                 "type": "file",
-                "voteAverage": 7.561
+                "voteAverage": 7.56
             },
             {
                 "adult": false,
@@ -11377,7 +11377,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 57.184,
+                "popularity": 53.386,
                 "posterPath": "https://image.tmdb.org/t/p/w342/sejOOSFyqNd2KHWo9s3FiP7JCTv.jpg",
                 "releaseDate": "2023-07-23",
                 "title": "Felicidade para Principiantes",
@@ -11403,7 +11403,7 @@
                 "parents": [
                     "1wGrndkP4mujwv_ZobJxXNJossVrHsbCP"
                 ],
-                "popularity": 57.184,
+                "popularity": 53.386,
                 "posterPath": "https://image.tmdb.org/t/p/w342/sejOOSFyqNd2KHWo9s3FiP7JCTv.jpg",
                 "releaseDate": "2023-07-23",
                 "title": "Felicidade para Principiantes",
@@ -11626,7 +11626,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 46.522,
+                "popularity": 49.734,
                 "posterPath": "https://image.tmdb.org/t/p/w342/1WHeh743USzQoCrzPQYUKEDsTjZ.jpg",
                 "releaseDate": "2022-11-09",
                 "title": "Futebol em Apuros",
@@ -11651,7 +11651,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 21.581,
+                "popularity": 22.489,
                 "posterPath": "https://image.tmdb.org/t/p/w342/AmjY2zibiM35OM0UJBYMJQo98Bz.jpg",
                 "releaseDate": "2008-08-15",
                 "title": "Garota Mimada",
@@ -11928,7 +11928,7 @@
                 "parents": [
                     "1OLlHUglwVAYoANfMD0n2bSSWHOBhTi19"
                 ],
-                "popularity": 29.713,
+                "popularity": 25.967,
                 "posterPath": "https://image.tmdb.org/t/p/w342/iP5MbYaPiD5zIUmLGVEhIA83A9A.jpg",
                 "releaseDate": "2018-10-11",
                 "title": "Goosebumps 2: Halloween Assombrado",
@@ -11975,7 +11975,7 @@
                 "parents": [
                     "1OLlHUglwVAYoANfMD0n2bSSWHOBhTi19"
                 ],
-                "popularity": 23.638,
+                "popularity": 25.396,
                 "posterPath": "https://image.tmdb.org/t/p/w342/cAjDJf4OsPUWbB8rg3b5v7XTyb6.jpg",
                 "releaseDate": "1988-10-21",
                 "title": "Halloween 4: O Retorno de Michael Myers",
@@ -12175,7 +12175,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 56.233,
+                "popularity": 54.338,
                 "posterPath": "https://image.tmdb.org/t/p/w342/7iWfEm9VOeX8AAnC7F1ApxRDTfw.jpg",
                 "releaseDate": "2011-08-09",
                 "title": "Hist\u00f3rias Cruzadas",
@@ -12249,7 +12249,7 @@
                 "parents": [
                     "14IDnM6gIlZB49h5J_DbXYimIsGrqx7JZ"
                 ],
-                "popularity": 87.079,
+                "popularity": 91.165,
                 "posterPath": "https://image.tmdb.org/t/p/w342/dODKvv9o9BOemWavnulutJBHM80.jpg",
                 "releaseDate": "2012-06-23",
                 "title": "O Espetacular Homem-Aranha",
@@ -12299,12 +12299,12 @@
                 "parents": [
                     "15M1m6kASfcnxg0wZ4wE1tLf2pznYXv1A"
                 ],
-                "popularity": 76.522,
+                "popularity": 73.53,
                 "posterPath": "https://image.tmdb.org/t/p/w342/63O5iixxXSmyOaBas7ek1tkeVra.jpg",
                 "releaseDate": "2007-05-01",
                 "title": "Homem-Aranha 3",
                 "type": "file",
-                "voteAverage": 6.394
+                "voteAverage": 6.395
             },
             {
                 "adult": false,
@@ -12323,7 +12323,7 @@
                 "parents": [
                     "15M1m6kASfcnxg0wZ4wE1tLf2pznYXv1A"
                 ],
-                "popularity": 88.219,
+                "popularity": 91.034,
                 "posterPath": "https://image.tmdb.org/t/p/w342/2WIwz0qJpnVAiofTAhrmhbKxuvE.jpg",
                 "releaseDate": "2002-05-01",
                 "title": "Homem-Aranha",
@@ -12619,12 +12619,12 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 138.457,
+                "popularity": 141.753,
                 "posterPath": "https://image.tmdb.org/t/p/w342/9PbtCo5IIkd26WPQfZUpPyn6fTz.jpg",
                 "releaseDate": "2022-02-25",
                 "title": "Hotel Transilv\u00e2nia: Transformonstr\u00e3o",
                 "type": "file",
-                "voteAverage": 7.003
+                "voteAverage": 7.004
             },
             {
                 "adult": false,
@@ -12670,7 +12670,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 8.956,
+                "popularity": 9.093,
                 "posterPath": "https://image.tmdb.org/t/p/w342/myMnHnG6kxYaQYknnW76VCHBpYT.jpg",
                 "releaseDate": "1977-08-26",
                 "title": "House",
@@ -12789,7 +12789,7 @@
                 "parents": [
                     "1v6REeC3bQgE3VOV9_M2m5RXWR_T0PoKt"
                 ],
-                "popularity": 87.418,
+                "popularity": 94.019,
                 "posterPath": "https://image.tmdb.org/t/p/w342/o94LZsIKt0priAca7hoN4yz7a1d.jpg",
                 "releaseDate": "2016-06-08",
                 "title": "Invoca\u00e7\u00e3o do Mal 2",
@@ -12931,7 +12931,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 2.089,
+                "popularity": 1.626,
                 "posterPath": "https://image.tmdb.org/t/p/w342/fN8SBoDHYT2zO1x80GhhX605WuX.jpg",
                 "releaseDate": "2023-06-11",
                 "title": "Irm\u00e3os Por Escolha",
@@ -12979,12 +12979,12 @@
                 "parents": [
                     "1mGPPuAHxxsoDHZbg8C1LuOEj3n47GYqk"
                 ],
-                "popularity": 52.385,
+                "popularity": 50.26,
                 "posterPath": "https://image.tmdb.org/t/p/w342/kkQWU1hjgkqbWqFo6Vfu2V4Qm9f.jpg",
                 "releaseDate": "2005-10-28",
                 "title": "Jogos Mortais II",
                 "type": "file",
-                "voteAverage": 6.56
+                "voteAverage": 6.559
             },
             {
                 "adult": false,
@@ -13054,7 +13054,7 @@
                 "parents": [
                     "1mGPPuAHxxsoDHZbg8C1LuOEj3n47GYqk"
                 ],
-                "popularity": 49.62,
+                "popularity": 55.945,
                 "posterPath": "https://image.tmdb.org/t/p/w342/nqaB9vOAhRz68slEbyoCB5MPrYV.jpg",
                 "releaseDate": "2008-10-23",
                 "title": "Jogos Mortais V",
@@ -13078,7 +13078,7 @@
                 "parents": [
                     "1mGPPuAHxxsoDHZbg8C1LuOEj3n47GYqk"
                 ],
-                "popularity": 42.155,
+                "popularity": 49.275,
                 "posterPath": "https://image.tmdb.org/t/p/w342/3jA3hsiOJvCo5LvnWgYtjTuVAWn.jpg",
                 "releaseDate": "2009-10-16",
                 "title": "Jogos Mortais VI",
@@ -13176,12 +13176,12 @@
                 "parents": [
                     "1mGPPuAHxxsoDHZbg8C1LuOEj3n47GYqk"
                 ],
-                "popularity": 52.385,
+                "popularity": 50.26,
                 "posterPath": "https://image.tmdb.org/t/p/w342/kkQWU1hjgkqbWqFo6Vfu2V4Qm9f.jpg",
                 "releaseDate": "2005-10-28",
                 "title": "Jogos Mortais II",
                 "type": "file",
-                "voteAverage": 6.56
+                "voteAverage": 6.559
             },
             {
                 "adult": false,
@@ -13297,7 +13297,7 @@
                 "parents": [
                     "1mGPPuAHxxsoDHZbg8C1LuOEj3n47GYqk"
                 ],
-                "popularity": 49.62,
+                "popularity": 55.945,
                 "posterPath": "https://image.tmdb.org/t/p/w342/nqaB9vOAhRz68slEbyoCB5MPrYV.jpg",
                 "releaseDate": "2008-10-23",
                 "title": "Jogos Mortais V",
@@ -13321,7 +13321,7 @@
                 "parents": [
                     "1mGPPuAHxxsoDHZbg8C1LuOEj3n47GYqk"
                 ],
-                "popularity": 42.155,
+                "popularity": 49.275,
                 "posterPath": "https://image.tmdb.org/t/p/w342/3jA3hsiOJvCo5LvnWgYtjTuVAWn.jpg",
                 "releaseDate": "2009-10-16",
                 "title": "Jogos Mortais VI",
@@ -13444,7 +13444,7 @@
                 "parents": [
                     "1c8DGWAwC0E9pJr5h8dyx7IiCXHTbt-IU"
                 ],
-                "popularity": 71.732,
+                "popularity": 71.321,
                 "posterPath": "https://image.tmdb.org/t/p/w342/bE6XutmB6tcvzTHBx4JGJLlzouM.jpg",
                 "releaseDate": "2019-05-15",
                 "title": "John Wick 3: Parabellum",
@@ -13469,7 +13469,7 @@
                 "parents": [
                     "1IoDsQ9xUU8uP2vBWEBiiBUV-HD6xkMkF"
                 ],
-                "popularity": 71.732,
+                "popularity": 71.321,
                 "posterPath": "https://image.tmdb.org/t/p/w342/bE6XutmB6tcvzTHBx4JGJLlzouM.jpg",
                 "releaseDate": "2019-05-15",
                 "title": "John Wick 3: Parabellum",
@@ -13618,7 +13618,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 28.979,
+                "popularity": 22.652,
                 "posterPath": "https://image.tmdb.org/t/p/w342/rF0ItNyvhMIavqcuVtHFPhbW6Yf.jpg",
                 "releaseDate": "2022-09-14",
                 "title": "Justiceiras",
@@ -13830,7 +13830,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 44.172,
+                "popularity": 47.295,
                 "posterPath": "https://image.tmdb.org/t/p/w342/s3SntheUQWJysPSZGcegQj473Pq.jpg",
                 "releaseDate": "2023-05-04",
                 "title": "O Amor Mandou Mensagem",
@@ -13971,7 +13971,7 @@
                 "parents": [
                     "1-Rnf-KeoTmYalJcfx2zMJZPHGhHe1K9a"
                 ],
-                "popularity": 26.037,
+                "popularity": 25.406,
                 "posterPath": "https://image.tmdb.org/t/p/w342/o4rv4JyeDmDKGaZgvmQxSkaCJXX.jpg",
                 "releaseDate": "1985-06-29",
                 "title": "Mad Max: Al\u00e9m da C\u00fapula do Trov\u00e3o",
@@ -14300,7 +14300,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 1.4,
+                "popularity": 1.529,
                 "posterPath": "https://image.tmdb.org/t/p/w342/kHYKLxuUUssXA0zrTYeX9Nh0cii.jpg",
                 "releaseDate": "2022-05-06",
                 "title": "Meteoros",
@@ -14582,7 +14582,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 193.349,
+                "popularity": 210.277,
                 "posterPath": "https://image.tmdb.org/t/p/w342/nILcbiddghZiSvNL6KWttqS7DzW.jpg",
                 "releaseDate": "2021-08-31",
                 "title": "Mortal Kombat Legends: Batalha dos Reinos",
@@ -14626,7 +14626,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 0.755,
+                "popularity": 1.4,
                 "posterPath": "https://image.tmdb.org/t/p/w342/4UMDeMLfX1Ycl0S1m4VZz0nrHsE.jpg",
                 "releaseDate": "2023-06-24",
                 "title": "Murilo Couto: Leso",
@@ -14674,12 +14674,12 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 94.733,
+                "popularity": 107.969,
                 "posterPath": "https://image.tmdb.org/t/p/w342/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg",
                 "releaseDate": "2022-10-07",
                 "title": "Nada de Novo no Front",
                 "type": "file",
-                "voteAverage": 7.746
+                "voteAverage": 7.745
             },
             {
                 "adult": false,
@@ -15323,7 +15323,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 16.785,
+                "popularity": 15.548,
                 "posterPath": "https://image.tmdb.org/t/p/w342/4kEsUVpzjvPMsY7TQOQP5ipVmnh.jpg",
                 "releaseDate": "2023-06-23",
                 "title": "O Melhor do Mundo",
@@ -15615,7 +15615,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 91.908,
+                "popularity": 105.887,
                 "posterPath": "https://image.tmdb.org/t/p/w342/omoMXT3Z7XrQwRZ2OGJGNWbdeEl.jpg",
                 "releaseDate": "2001-12-18",
                 "title": "O Senhor dos An\u00e9is: A Sociedade do Anel",
@@ -15665,7 +15665,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 102.392,
+                "popularity": 90.46,
                 "posterPath": "https://image.tmdb.org/t/p/w342/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg",
                 "releaseDate": "2003-12-01",
                 "title": "O Senhor dos An\u00e9is: O Retorno do Rei",
@@ -15711,7 +15711,7 @@
                 "parents": [
                     "1Q1AyuCTUCLCvQlo8lvFxO1UE9m2IknRl"
                 ],
-                "popularity": 149.107,
+                "popularity": 170.42,
                 "posterPath": "https://image.tmdb.org/t/p/w342/h2tS3f9s386fitoHjDMvQGm2w8q.jpg",
                 "releaseDate": "2023-02-22",
                 "title": "O Urso do P\u00f3 Branco",
@@ -15736,7 +15736,7 @@
                 "parents": [
                     "1uRytAtPMqFIMlmBNmgpdLpEvBUFB9lzm"
                 ],
-                "popularity": 149.107,
+                "popularity": 170.42,
                 "posterPath": "https://image.tmdb.org/t/p/w342/h2tS3f9s386fitoHjDMvQGm2w8q.jpg",
                 "releaseDate": "2023-02-22",
                 "title": "O Urso do P\u00f3 Branco",
@@ -15812,7 +15812,7 @@
                 "releaseDate": "2022-11-17",
                 "title": "O Menu",
                 "type": "file",
-                "voteAverage": 7.209
+                "voteAverage": 7.208
             },
             {
                 "adult": false,
@@ -15831,7 +15831,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 0.945,
+                "popularity": 1.127,
                 "posterPath": "https://image.tmdb.org/t/p/w342/58wdFd013l6bRjpViTv5PYy2EQ4.jpg",
                 "releaseDate": "2021-08-21",
                 "title": "O Rei da Festa",
@@ -16037,7 +16037,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 42.606,
+                "popularity": 40.207,
                 "posterPath": "https://image.tmdb.org/t/p/w342/BWHoAAcKnGtowRXju2c2RBrT0m.jpg",
                 "releaseDate": "2022-11-11",
                 "title": "Os Fabelmans",
@@ -16061,7 +16061,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 44.691,
+                "popularity": 43.204,
                 "posterPath": "https://image.tmdb.org/t/p/w342/yUBUbtdeUxFK8CWyuV3Ca37LpiQ.jpg",
                 "releaseDate": "1988-03-30",
                 "title": "Os Fantasmas se Divertem",
@@ -16085,7 +16085,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 16.992,
+                "popularity": 18.328,
                 "posterPath": "https://image.tmdb.org/t/p/w342/wEoMVCqFs5YtxeF6huRF3tvMwd.jpg",
                 "releaseDate": "2021-11-12",
                 "title": "Os Tr\u00eas Desejos da Cinderela",
@@ -16109,12 +16109,12 @@
                 "parents": [
                     "14LRwrANcIlHtWyya0ga36hstPOBfz2rt"
                 ],
-                "popularity": 35.941,
+                "popularity": 42.95,
                 "posterPath": "https://image.tmdb.org/t/p/w342/ghcDEzN43GGUxduTJgNhKDn6a3I.jpg",
                 "releaseDate": "2018-08-16",
                 "title": "Para Todos os Garotos que J\u00e1 Amei",
                 "type": "file",
-                "voteAverage": 7.644
+                "voteAverage": 7.645
             },
             {
                 "adult": false,
@@ -16352,7 +16352,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 0.87,
+                "popularity": 0.838,
                 "posterPath": "https://image.tmdb.org/t/p/w342/z2ROBKMuGON5tWw0tV6h3gcFY2c.jpg",
                 "releaseDate": "2021-10-14",
                 "title": "Playground",
@@ -16425,12 +16425,12 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 22.968,
+                "popularity": 28.945,
                 "posterPath": "https://image.tmdb.org/t/p/w342/pkrwDEozl5HgaDYP9lj2iSOCQMO.jpg",
                 "releaseDate": "1981-05-27",
                 "title": "Possess\u00e3o",
                 "type": "file",
-                "voteAverage": 7.36
+                "voteAverage": 7.363
             },
             {
                 "adult": false,
@@ -16503,7 +16503,7 @@
                 "releaseDate": "2023-07-06",
                 "title": "Projeto Extra\u00e7\u00e3o",
                 "type": "file",
-                "voteAverage": 7.102
+                "voteAverage": 7.094
             },
             {
                 "adult": false,
@@ -16547,7 +16547,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 28.981,
+                "popularity": 30.627,
                 "posterPath": "https://image.tmdb.org/t/p/w342/9TtAmtq6iJfzh6qG4euG6eoUQDm.jpg",
                 "releaseDate": "2021-12-03",
                 "title": "Pr\u00f3xima Parada: Lar Doce Lar",
@@ -16635,7 +16635,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 2.951,
+                "popularity": 3.035,
                 "posterPath": "https://image.tmdb.org/t/p/w342/l2vm6wdXjkxxTQSWOoquVUEz4Qo.jpg",
                 "releaseDate": "2022-01-14",
                 "title": "P\u00e2nico: A Hist\u00f3ria por Tr\u00e1s do Filme",
@@ -16685,7 +16685,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 30.534,
+                "popularity": 30.09,
                 "posterPath": "https://image.tmdb.org/t/p/w342/wURuMRNINuztoC0HotYMVfWfyPt.jpg",
                 "releaseDate": "2023-07-27",
                 "title": "Quem Matou?",
@@ -16734,7 +16734,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 8.116,
+                "popularity": 6.823,
                 "posterPath": "https://image.tmdb.org/t/p/w342/7RVajiBhqJVwKIhUqSnRWBWhZA5.jpg",
                 "releaseDate": "2022-09-18",
                 "title": "Rainbow",
@@ -16945,7 +16945,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 34.029,
+                "popularity": 31.13,
                 "posterPath": "https://image.tmdb.org/t/p/w342/xdAVVJT8TtC3S1VVHzh5eIX0CzQ.jpg",
                 "releaseDate": "2023-06-02",
                 "title": "Ricos de Amor 2",
@@ -17066,7 +17066,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 36.3,
+                "popularity": 34.585,
                 "posterPath": "https://image.tmdb.org/t/p/w342/oWmcC2RENbkdS3BuPor530KzKDc.jpg",
                 "releaseDate": "2023-05-11",
                 "title": "Royalteen: Princesa Margrethe",
@@ -17535,12 +17535,12 @@
                 "parents": [
                     "1LhySbC9O95rgjmUiJ2JHfmRN8a5k6sQu"
                 ],
-                "popularity": 36.162,
+                "popularity": 42.275,
                 "posterPath": "https://image.tmdb.org/t/p/w342/sEvmaOS4WndyaJeO5TdVupYZrDi.jpg",
                 "releaseDate": "2003-08-15",
                 "title": "Freddy X Jason",
                 "type": "file",
-                "voteAverage": 6.039
+                "voteAverage": 6.04
             },
             {
                 "adult": false,
@@ -18056,7 +18056,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 14.24,
+                "popularity": 14.652,
                 "posterPath": "https://image.tmdb.org/t/p/w342/hJUA4wfvw0A6l3niOfxourqpERA.jpg",
                 "releaseDate": "2020-08-14",
                 "title": "Spree: Viagens sem Limite",
@@ -18262,7 +18262,7 @@
                 "parents": [
                     "1-Ig8DCbYTfytnbxKkIWMjeCVJ2X9jz7F"
                 ],
-                "popularity": 16.384,
+                "popularity": 15.708,
                 "posterPath": "https://image.tmdb.org/t/p/w342/ohA8ogNltkGmyIiO3vpw3UUltmK.jpg",
                 "releaseDate": "1989-06-09",
                 "title": "Jornada nas Estrelas V: A \u00daltima Fronteira",
@@ -18375,7 +18375,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 33.253,
+                "popularity": 32.689,
                 "posterPath": "https://image.tmdb.org/t/p/w342/mUVPAWrszwEy1TNblitVkuYyb7I.jpg",
                 "releaseDate": "2005-07-29",
                 "title": "Sky High: Super Escola de Her\u00f3is",
@@ -18564,7 +18564,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 16.476,
+                "popularity": 13.937,
                 "posterPath": "https://image.tmdb.org/t/p/w342/xD6ytmowMxYcrPCh4oYhcWyuTF0.jpg",
                 "releaseDate": "2020-08-14",
                 "title": "Tesla: O Homem El\u00e9trico",
@@ -19238,7 +19238,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 73.714,
+                "popularity": 73.408,
                 "posterPath": "https://image.tmdb.org/t/p/w342/1bFE8TlLU7r3IwwGHN7au8xPIds.jpg",
                 "releaseDate": "2023-02-16",
                 "title": "V\u00edcio Perfeito",
@@ -19397,7 +19397,7 @@
                 "parents": [
                     "14oowDOtB7G54T3wvDgP2CvIBoTTd3LeY"
                 ],
-                "popularity": 2.287,
+                "popularity": 3.202,
                 "posterPath": "https://image.tmdb.org/t/p/w342/sVQJSdOBtYF7kkxSjMdtwwfvl6c.jpg",
                 "releaseDate": "2001-12-14",
                 "title": "Xuxa e os Duendes",
@@ -19587,7 +19587,7 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-27 04:08:45.565875",
+        "buildTime": "2023-08-27 04:35:23.153518",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -19733,12 +19733,12 @@
                 "parents": [
                     "1BKJcvJbn0igsITH_IJKHka6CEmeQTlDW"
                 ],
-                "popularity": 374.948,
+                "popularity": 373.848,
                 "posterPath": "https://image.tmdb.org/t/p/w342/6kgzhSluPGxyp9ao8KSXxBaGN1k.jpg",
                 "releaseDate": "2022-06-16",
                 "title": "O Ver\u00e3o Que Mudou Minha Vida",
                 "type": "directory",
-                "voteAverage": 8.288
+                "voteAverage": 8.294
             },
             {
                 "api": "tmdb",
@@ -19864,7 +19864,7 @@
         "type": "directory"
     },
     {
-        "buildTime": "2023-08-27 04:08:49.436676",
+        "buildTime": "2023-08-27 04:35:29.535150",
         "categoryInfo": {
             "adult": false,
             "anilist": false,
@@ -19891,12 +19891,12 @@
                 "parents": [
                     "1x5JWks1zrcR1eBg0Fvi9fDHp24JyJJWg"
                 ],
-                "popularity": 131.316,
+                "popularity": 165.801,
                 "posterPath": "https://image.tmdb.org/t/p/w342/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
                 "releaseDate": "2017-10-03",
                 "title": "Black Clover",
                 "type": "directory",
-                "voteAverage": 8.499
+                "voteAverage": 8.5
             },
             {
                 "id": "1zvCDKTP6QxpOE1OIrkk6cFmnyNYzmbiU",
