@@ -95,12 +95,12 @@
         "arcio": "dev",
         "custom_button": {
             "text": "Telegram",
-            "url": "https://t.me/Nobreflix"
+            "url": "https://t.me/CineClick"
         },
         "hide_news": true,
         "icon": "https://th.bing.com/th/id/R.df7c249866b2de3b50eee84d6eb5f6be?rik=c3Ti4SyYba8h3g&pid=ImgRaw&r=0",
         "icon_on_nav": true,
         "service_accounts": [],
-        "title": "NobreFlix"
+        "title": "CineClick"
     }
 }
