@@ -20,8 +20,6 @@ This is a project that allows you to create a web app like Plex using your Googl
 - Done.
 
 
-Here is a possible way to rewrite the text in Markdown for the README.md on GitHub:
-
 ## [Deploy on Render](https://render.com/)
 
 - Create an account on Render
