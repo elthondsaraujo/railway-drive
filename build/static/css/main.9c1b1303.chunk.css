@@ -46,7 +46,6 @@
   box-sizing: border-box;
   display: flex;
   flex-wrap: wrap;
-  margin-top: 15px;
 }
 .season-single {
   margin-left: 10px;
