@@ -3813,7 +3813,7 @@
                                                             children: Object(y.jsxs)("ul", {
                                                                 children: [Object(y.jsxs)("li", {
                                                                     children: [Object(y.jsx)("span", {
-                                                                        children: "Tipo"
+                                                                        children: "Tipo:"
                                                                     }), " Filme"]
                                                                 }), Object(y.jsxs)("li", {
                                                                     children: [Object(y.jsx)("span", {
@@ -4175,14 +4175,14 @@
                                                             children: Object(y.jsx)("div", {
                                                                 onClick: function() {
                                                                     return e.setState({
-                                                                        tooltipOpen2: !0
+                                                                        tooltipOpen2: !1
                                                                     })
                                                                 },
                                                                 children: Object(y.jsx)(Zt.a, {
                                                                     name: "Rating",
                                                                     value: a.voteAverage,
                                                                     max: 10,
-                                                                    readOnly: !0
+                                                                    readOnly: !1
                                                                 })
                                                             })
                                                         })
@@ -4200,8 +4200,8 @@
                                                             children: Object(y.jsxs)("ul", {
                                                                 children: [Object(y.jsxs)("li", {
                                                                     children: [Object(y.jsx)("span", {
-                                                                        children: "Tipo"
-                                                                    }), " ", "Filme"]
+                                                                        children: "Tipo:"
+                                                                    }), " ", "Serie"]
                                                                 }), Object(y.jsxs)("li", {
                                                                     children: [Object(y.jsx)("span", {
                                                                         children: "Data de Lançamento:"
