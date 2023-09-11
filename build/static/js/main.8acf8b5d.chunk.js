@@ -1830,7 +1830,7 @@
                                         }), Object(y.jsx)(we.a, {
                                             pill: !0,
                                             bg: "primary",
-                                            children: "v3"
+                                            children: ""
                                         })]
                                     }), Object(y.jsx)(Je.a.Toggle, {
                                         "aria-controls": "basic-navbar-nav"
