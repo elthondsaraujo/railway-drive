@@ -71,9 +71,10 @@
 
 /* Adicionado inicio do loader */
 :root {
-
-  --s-color-2: blue; /* Cor do círculo 2 */
-  --s-color-3: green; /* Cor do círculo 3 */
+  --s-color-3: white; /* Cor do círculo 2 */
+  --s-color-2: red; /* Cor do círculo 2 */
+  --s-color-1: green; /* Cor do círculo 3 */
+  --s-color-4: blue; /* Cor do círculo 3 */
 }
 
 .loader-container {
@@ -93,12 +94,19 @@
   background: var(--s-color-1);
   border-radius: 25%; /* Adicionado para tornar o quadrado um círculo */
 }
+.loader-container .loader .four {
+  top: -50%; /* Aumentado o espaço */
+  left: -50%; /* Aumentado o espaço */
+  -webkit-animation: animate_one 5s linear infinite; /* Alterado para uma animação de pulsação e rotação */
+  animation: animate_one 3s linear infinite;
+  background: var(--s-color-3);
+}
 .loader-container .loader .one {
   top: -50%; /* Aumentado o espaço */
   left: -50%; /* Aumentado o espaço */
   -webkit-animation: animate_one 5s linear infinite; /* Alterado para uma animação de pulsação e rotação */
   animation: animate_one 3s linear infinite;
-  background: var(--s-color-1);
+  background: var(--s-color-3);
 }
 @keyframes animate_one {
     from { transform: scale(1) rotate(0deg); }
