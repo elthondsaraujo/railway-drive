@@ -68,6 +68,15 @@
   margin-top: 50px;
   border-radius: 10px;
 }
+
+/* Adicionado inicio do loader */
+
+:root {
+  --s-color-1: red; /* Cor do círculo 1 */
+  --s-color-2: blue; /* Cor do círculo 2 */
+  --s-color-3: green; /* Cor do círculo 3 */
+}
+
 .loader-container {
   margin-top: 10%;
   display: flex;
@@ -83,21 +92,47 @@
   width: 50%;
   position: absolute;
   background: var(--s-color-1);
+  border-radius: 25%; /* Adicionado para tornar o quadrado um círculo */
 }
 .loader-container .loader .one {
-  top: 0;
-  left: 0;
-  -webkit-animation: animate_one 5s ease infinite;
-  animation: animate_one 5s ease infinite;
+  top: -50%; /* Aumentado o espaço */
+  left: -50%; /* Aumentado o espaço */
+  -webkit-animation: animate_one 5s linear infinite; /* Alterado para uma animação de pulsação e rotação */
+  animation: animate_one 3s linear infinite;
   background: var(--s-color-1);
 }
-.loader-container .loader .two {
-  top: 50%;
-  left: 50%;
-  -webkit-animation: animate_two 5s ease infinite;
-  animation: animate_two 5s ease infinite;
-  background: var(--s-white);
+@keyframes animate_one {
+    from { transform: scale(1) rotate(0deg); }
+    to { transform: scale(1.5) rotate(360deg); }
 }
+.loader-container .loader .two {
+  top: -10%; /* Aumentado o espaço */
+  left: -10%; /* Aumentado o espaço */
+  -webkit-animation: animate_two 3s linear infinite reverse; /* Alterado para uma animação de pulsação e rotação em sentido inverso */
+  animation: animate_two 3s linear infinite reverse;
+  background: var(--s-color-2);
+}
+@keyframes animate_two {
+    from { transform: scale(1) rotate(0deg); }
+    to { transform: scale(1.5) rotate(-360deg); }
+}
+.loader-container .loader .three {
+    top:-10%; /* Aumentado o espaço */
+    left:-10%; /* Aumentado o espaço */
+    -webkit-animation : animate_three 4s linear infinite;
+    animation : animate_three 3s linear infinite;
+    background : var(--s-color-3);
+}
+@keyframes animate_three{
+    from {transform : scale(1) rotate(0deg);}
+    to {transform : scale(1.5) rotate(360deg);}
+}
+
+
+/* Adicionado fim */
+
+
+
 @-webkit-keyframes animate_one {
   0%,
   to {
