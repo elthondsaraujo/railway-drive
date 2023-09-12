@@ -85,6 +85,9 @@
   height: 6rem;
   width: 6rem;
   position: relative;
+  border-radius: 50%;
+  background: var(--s-color-1);
+  animation: pulse 2s infinite;
 }
 .loader-container .loader .square {
   height: 50%;
