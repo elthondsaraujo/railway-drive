@@ -963,8 +963,12 @@
                             page: parseInt(xe.a.parse(n.props.location.search).page) || 1,
                             range: "".concat(void 0 === xe.a.parse(n.props.location.search).page ? "0:".concat(JSON.parse(window.localStorage.getItem("ui_config") || window.sessionStorage.getItem("ui_config") || "{}").range || "30") : "".concat((parseInt(xe.a.parse(n.props.location.search).page) - 1) * parseInt(JSON.parse(window.localStorage.getItem("ui_config") || window.sessionStorage.getItem("ui_config") || "{}").range || "30"), ":").concat(parseInt(xe.a.parse(n.props.location.search).page) * parseInt(JSON.parse(window.localStorage.getItem("ui_config") || window.sessionStorage.getItem("ui_config") || "{}").range || "30"))),
                             server: window.sessionStorage.getItem("server") || window.localStorage.getItem("server") || window.location.origin,
-                            sort: xe.a.parse(n.props.location.search).sort || "",
-                            ui_config: JSON.parse(window.localStorage.getItem("ui_config") || window.sessionStorage.getItem("ui_config") || "{}")
+							
+							/*INICIO DE ORGANIZAR POR POPULARIDADE*/
+                            sort: xe.a.parse(n.props.location.search).sort || "popularity-des",
+							/*FIM DE ORGANIZAR POR POPULARIDADE*/
+                            
+							ui_config: JSON.parse(window.localStorage.getItem("ui_config") || window.sessionStorage.getItem("ui_config") || "{}")
                         }, n
                     }
                     return Object(p.a)(a, [{
@@ -1176,7 +1180,7 @@
                             page: parseInt(xe.a.parse(n.props.location.search).page) || 1,
                             range: "".concat(void 0 === xe.a.parse(n.props.location.search).page ? "0:12" : "".concat(12 * (parseInt(xe.a.parse(n.props.location.search).page) - 1), ":").concat(12 * parseInt(xe.a.parse(n.props.location.search).page))),
                             server: window.sessionStorage.getItem("server") || window.localStorage.getItem("server") || window.location.origin,
-                            sort: xe.a.parse(n.props.location.search).sort || "",
+                            sort: xe.a.parse(n.props.location.search).sort || "popularity-des",
                             ui_config: JSON.parse(window.localStorage.getItem("ui_config") || window.sessionStorage.getItem("ui_config") || "{}")
                         }, n
                     }
@@ -2300,7 +2304,7 @@
                                                     className: "color-2 gg-search"
                                                 })
                                             }), Object(y.jsx)(lt.a, {
-                                                placeholder: "Buscar Títulos ...",
+                                                placeholder: "Search...",
                                                 "aria-label": "Default",
                                                 "aria-describedby": "inputGroup-sizing-default",
                                                 onChange: this.searchChange
@@ -3016,12 +3020,12 @@
                                     className: "sort__container",
                                     children: [Object(y.jsx)(wt.a, {
                                         id: "genre-menu-label",
-                                        children: a || "Genre"
+                                        children: a || "Genero"
                                     }), Object(y.jsxs)(yt.a, {
                                         labelId: "genre-menu-label",
                                         id: "genre-menu",
                                         value: "",
-                                        label: a || "Genre",
+                                        label: a || "Genero",
                                         children: [Object(y.jsx)(c.b, {
                                             to: {
                                                 pathname: this.props.props.location.pathname,
@@ -3031,7 +3035,7 @@
                                             children: Object(y.jsx)(x.a, {
                                                 children: "All"
                                             })
-                                        }, Ne()), Object(y.jsx)(f.a, {}), ["Action", "Action & Adventure", "Adventure", "Animation", "Comedy", "Crime", "Documentary", "Drama", "Ecchi", "Family", "Fantasy", "Hentai", "History", "Horror", "Kids", "Mahou Shoujo", "Mecha", "Music", "Mystery", "News", "Psychological", "Reality", "Romance", "Sci-Fi", "Sci-Fi & Fantasy", "Science Fiction", "Slice of Life", "Soap", "Sports", "Supernatural", "TV Movie", "Talk", "Thriller", "War", "War & Politics", "Western"].map((function(t) {
+                                        }, Ne()), Object(y.jsx)(f.a, {}), ["Action", "Action & Adventure", "Adventure", "Animation", "Comedy", "Crime", "Documentary", "Drama", "Family", "Fantasy", "History", "Horror", "Kids", "Music", "Mystery", "News", "Psychological", "Reality", "Romance", "Sci-Fi & Fantasy", "Science Fiction", "Slice of Life", "Supernatural", "TV Movie", "Talk", "Thriller", "War", "War & Politics", "Western"].map((function(t) {
                                             return Object(y.jsx)(c.b, {
                                                 to: {
                                                     pathname: e.props.props.location.pathname,

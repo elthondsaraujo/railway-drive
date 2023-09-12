@@ -87,18 +87,18 @@
   position: relative;
   border-radius: 10%;
   background: var(--s-color-1);
-  animation: pulse 2s infinite;
+  animation: pulse 1s infinite;
 }
 .loader-container .loader .square {
-  height: 50%;
-  width: 50%;
+  height: 100%;
+  width: 100%;
   position: absolute;
   background: var(--s-color-1);
   border-radius: 10%; /* Adicionado para tornar o quadrado um círculo */
 }
 .loader-container .loader .four {
-  top: -50%; /* Aumentado o espaço */
-  left: -50%; /* Aumentado o espaço */
+  top: -75%; /* Aumentado o espaço */
+  left: -75%; /* Aumentado o espaço */
   -webkit-animation: animate_one 5s linear infinite; /* Alterado para uma animação de pulsação e rotação */
   animation: animate_one 2s linear infinite;
   background: var(--s-color-3);
@@ -1302,7 +1302,7 @@ button .bi {
   background: #888 !important;
 }
 :root {
-  --s-color-1: #14dca0;
+  --s-color-1: #d1143a;
   --s-color-1-7: #28daa4;
   --s-color-1-5: #3cd4a7;
   --s-color-1-2: #3baf8a;
