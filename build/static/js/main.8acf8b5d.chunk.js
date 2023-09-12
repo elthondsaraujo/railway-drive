@@ -3035,7 +3035,7 @@
                                             children: Object(y.jsx)(x.a, {
                                                 children: "All"
                                             })
-                                        }, Ne()), Object(y.jsx)(f.a, {}), ["Action", "Action & Adventure", "Adventure", "Animation", "Comedy", "Crime", "Documentary", "Drama", "Family", "Fantasy", "History", "Horror", "Kids", "Music", "Mystery", "News", "Psychological", "Reality", "Romance", "Sci-Fi & Fantasy", "Science Fiction", "Slice of Life", "Supernatural", "TV Movie", "Talk", "Thriller", "War", "War & Politics", "Western"].map((function(t) {
+                                        }, Ne()), Object(y.jsx)(f.a, {}), ["Action", "Adventure", "Animation", "Comedy", "Crime", "Documentary", "Drama", "Family", "Fantasy", "History", "Horror", "Kids", "Music", "Mystery", "News", "Psychological", "Reality", "Romance", "Science Fiction", "Slice of Life", "Supernatural", "TV Movie", "Talk", "Thriller", "War", "Western"].map((function(t) {
                                             return Object(y.jsx)(c.b, {
                                                 to: {
                                                     pathname: e.props.props.location.pathname,
