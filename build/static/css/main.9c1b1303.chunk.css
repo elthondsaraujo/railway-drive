@@ -85,7 +85,7 @@
   height: 6rem;
   width: 6rem;
   position: relative;
-  border-radius: 50%;
+  border-radius: 10%;
   background: var(--s-color-1);
   animation: pulse 2s infinite;
 }
@@ -94,20 +94,20 @@
   width: 50%;
   position: absolute;
   background: var(--s-color-1);
-  border-radius: 25%; /* Adicionado para tornar o quadrado um círculo */
+  border-radius: 10%; /* Adicionado para tornar o quadrado um círculo */
 }
 .loader-container .loader .four {
   top: -50%; /* Aumentado o espaço */
   left: -50%; /* Aumentado o espaço */
   -webkit-animation: animate_one 5s linear infinite; /* Alterado para uma animação de pulsação e rotação */
-  animation: animate_one 3s linear infinite;
+  animation: animate_one 2s linear infinite;
   background: var(--s-color-3);
 }
 .loader-container .loader .one {
   top: -50%; /* Aumentado o espaço */
   left: -50%; /* Aumentado o espaço */
   -webkit-animation: animate_one 5s linear infinite; /* Alterado para uma animação de pulsação e rotação */
-  animation: animate_one 3s linear infinite;
+  animation: animate_one 2s linear infinite;
   background: var(--s-color-3);
 }
 @keyframes animate_one {
@@ -118,7 +118,7 @@
   top: -10%; /* Aumentado o espaço */
   left: -10%; /* Aumentado o espaço */
   -webkit-animation: animate_two 3s linear infinite reverse; /* Alterado para uma animação de pulsação e rotação em sentido inverso */
-  animation: animate_two 3s linear infinite reverse;
+  animation: animate_two 2s linear infinite reverse;
   background: var(--s-color-2);
 }
 @keyframes animate_two {
