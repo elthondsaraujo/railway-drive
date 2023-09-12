@@ -70,9 +70,8 @@
 }
 
 /* Adicionado inicio do loader */
-
 :root {
-  --s-color-1: red; /* Cor do círculo 1 */
+
   --s-color-2: blue; /* Cor do círculo 2 */
   --s-color-3: green; /* Cor do círculo 3 */
 }
@@ -127,8 +126,6 @@
     from {transform : scale(1) rotate(0deg);}
     to {transform : scale(1.5) rotate(360deg);}
 }
-
-
 /* Adicionado fim */
 
 
